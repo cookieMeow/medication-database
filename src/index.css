@@ -35,6 +35,16 @@ code {
 	margin: 20px;
 }
 
+.similar-drug-wrapper {
+	background-color: #e9ecf1;
+	padding: 20px;
+}
+
+.similar-drug-title {
+	font-size: 16px;
+	margin: 40px 0 10px 0;
+}
+
 .ant-table-row {
 	cursor: pointer;
 }

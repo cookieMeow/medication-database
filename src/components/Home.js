@@ -3,7 +3,7 @@ import { Tabs } from 'antd';
 import { Input } from 'antd';
 import { Radio } from 'antd';
 import { Table, Tag, Space } from 'antd';
-import { Card } from 'antd';
+import { Card, Col, Row } from 'antd';
 
 const { TabPane } = Tabs;
 const { Search } = Input;
@@ -139,10 +139,32 @@ return(
 			</TabPane>
 			<TabPane tab="Compare" key="compare">
 				{selectedMedicine &&
-				<Card size="small" title={selectedMedicine.name} style={{ width: 500, height: 500 }}>
-			      	<div>Company:</div>
-					<div>{selectedMedicine.company}</div>
-			    </Card>
+				<div>
+					<Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
+						<div>Company:</div>
+						<div>{selectedMedicine.company}</div>
+					</Card>
+					<div className='similar-drug-title'>Similar Drugs:</div>
+					  <div className='similar-drug-wrapper'>
+						<Row gutter={16}>
+						  <Col span={8}>
+							<Card size="small" title="Drug 1" bordered={false}>
+								Drug 1 description
+							</Card>
+						  </Col>
+						  <Col span={8}>
+							<Card size="small" title="Drug 2" bordered={false}>
+								Drug 2 description
+							</Card>
+						  </Col>
+						  <Col span={8}>
+							<Card size="small" title="Drug 3" bordered={false}>
+								Drug 3 description
+							</Card>
+						  </Col>
+						</Row>
+					  </div>
+				  </div>
 				}
 			</TabPane>
 		</Tabs>
