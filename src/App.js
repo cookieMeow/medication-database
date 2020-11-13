@@ -1,24 +1,36 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Layout, Menu, Breadcrumb } from 'antd';
+import { BrowserRouter, Route, Link, Switch } from "react-router-dom";
+
+import Home from './components/Home.js';
 import './App.css';
+
+
+const { SubMenu } = Menu;
+const { Header, Content, Footer, Sider } = Layout;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+     <BrowserRouter>
+        <div className="headerImg"></div>
+        <Menu mode="horizontal" defaultSelectedKeys={['home']}>
+          <Menu.Item key="home">
+            <Link to="/">Home</Link>
+          </Menu.Item>
+          <Menu.Item key="explore">
+            <Link to="/explore">Explore</Link>
+          </Menu.Item>
+        </Menu>
+
+        <Switch>
+          <Route path="/explore">
+            Explore
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+    </BrowserRouter>
   );
 }
 

@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.headerImg {
+	background: url('https://www.pixelstalk.net/wp-content/uploads/images1/HD-medicine-wallpapers-768x508.jpg');
+	background-size: cover;
+	height: 300px;
+	width: 100%;
+}
+
+.home-container {
+	padding: 20px 50px;
+}
+
+.home-search {
+	margin: 20px;
+}
+
+.home-search-selection {
+	margin: 20px;
+}
+
+.home-search-result {
+	margin: 20px;
+}
+
+.ant-table-row {
+	cursor: pointer;
+}
+
+.ant-menu-horizontal > .ant-menu-item-selected.ant-menu-item a {
+    color: #000000 !important;
+    font-weight: bold;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item-selected {
+	border-bottom: 2px solid #333333 !important;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item-active {
+	border-bottom: 2px solid #333333 !important;
+}
+
+.ant-menu-horizontal > .ant-menu-item a {
+    color: #fff !important;
+}
+
+#root > .ant-menu-horizontal {
+	background: #97a0af;
+}
