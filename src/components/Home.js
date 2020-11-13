@@ -79,10 +79,13 @@ const Home = () => {
 
 	const onSearch = (value) => {
 		console.log('searching', value);
+		// TODO: Add search functionality here
 	}
 
 	const onChangeRadio = (e) => {
 		console.log(`radio checked:${e.target.value}`);
+		// TODO: Integrate this with search, you can use state to store the seleted
+		//       radio button value, for usage please refer to line 77 & 78
 	}
 
 	const tabOnChangeHandler = (activeKey) => {
@@ -102,6 +105,7 @@ const Home = () => {
 					},
 				};
 			}}
+			{/* TODO: the columns & data in the following line with actual data*/}
 			columns={columns} dataSource={data} />
 		)
 	}
