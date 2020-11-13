@@ -105,7 +105,6 @@ const Home = () => {
 					},
 				};
 			}}
-			{/* TODO: the columns & data in the following line with actual data*/}
 			columns={columns} dataSource={data} />
 		)
 	}
