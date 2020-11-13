@@ -76,6 +76,13 @@ const data = [
 const Home = () => {
 	const [activeTab, setActiveTab] = useState('search');
 	const [selectedMedicine, setSelectedMedicine] = useState();
+	// TODO: Please set the initial state to [] and use setSelectedMedicine to update the 
+	//       state value when the drug in the detail page changes
+	const [similarDrugs, setSimilarDrugs] = useState([
+		{name: 'Drug1'},
+		{name: 'Drug2'},
+		{name: 'Drug3'},
+	]);
 
 	const onSearch = (value) => {
 		console.log('searching', value);
@@ -147,21 +154,13 @@ return(
 					<div className='similar-drug-title'>Similar Drugs:</div>
 					  <div className='similar-drug-wrapper'>
 						<Row gutter={16}>
-						  <Col span={8}>
-							<Card size="small" title="Drug 1" bordered={false}>
-								Drug 1 description
+						{similarDrugs.map(drug => (
+					        <Col span={8}>
+							<Card size="small" title={drug.name} bordered={false}>
+								description here
 							</Card>
 						  </Col>
-						  <Col span={8}>
-							<Card size="small" title="Drug 2" bordered={false}>
-								Drug 2 description
-							</Card>
-						  </Col>
-						  <Col span={8}>
-							<Card size="small" title="Drug 3" bordered={false}>
-								Drug 3 description
-							</Card>
-						  </Col>
+					    ))}
 						</Row>
 					  </div>
 				  </div>
