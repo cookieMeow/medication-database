@@ -1,0 +1,8997 @@
+[
+  {
+    "name": "Abilify",
+    "rate": 6.1,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Abilify",
+    "rate": 6.1,
+    "symptom": "bipolar i disorder"
+  },
+  {
+    "name": "Accupril",
+    "rate": 5,
+    "symptom": "high blood pressure (hypertension)"
+  },
+  {
+    "name": "Acetaminophen",
+    "rate": 6.8,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Acetaminophen",
+    "rate": 6.8,
+    "symptom": "fevers"
+  },
+  {
+    "name": "Aciphex",
+    "rate": 9.2,
+    "symptom": "gastroesophageal reflux disease (gerd"
+  },
+  {
+    "name": "Acyclovir",
+    "rate": 8.3,
+    "symptom": "cold sores"
+  },
+  {
+    "name": "Acyclovir",
+    "rate": 8.3,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Acyclovir",
+    "rate": 8.3,
+    "symptom": "chickenpox"
+  },
+  {
+    "name": "Acyclovir",
+    "rate": 8.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Acyclovir",
+    "rate": 8.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Adderall",
+    "rate": 7.9,
+    "symptom": "adhd"
+  },
+  {
+    "name": "Advil",
+    "rate": 7.5,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Advil",
+    "rate": 7.5,
+    "symptom": "menstrual cramps"
+  },
+  {
+    "name": "Alendronate",
+    "rate": 2.1,
+    "symptom": "paget's disease"
+  },
+  {
+    "name": "Alendronate",
+    "rate": 2.1,
+    "symptom": "smoking"
+  },
+  {
+    "name": "Aleve",
+    "rate": 7,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Aleve",
+    "rate": 7,
+    "symptom": "menstrual cramps"
+  },
+  {
+    "name": "Aleve",
+    "rate": 7,
+    "symptom": "common cold"
+  },
+  {
+    "name": "Allopurinol",
+    "rate": 7.6,
+    "symptom": "gout"
+  },
+  {
+    "name": "Allopurinol",
+    "rate": 7.6,
+    "symptom": "kidney stones"
+  },
+  {
+    "name": "Alprazolam",
+    "rate": 8.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Alprazolam",
+    "rate": 8.8,
+    "symptom": "panic disorders"
+  },
+  {
+    "name": "Alprazolam",
+    "rate": 8.8,
+    "symptom": "depression"
+  },
+  {
+    "name": "Alprazolam",
+    "rate": 8.8,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Alprazolam",
+    "rate": 8.8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Ambien",
+    "rate": 7.2,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Ambien",
+    "rate": 7.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Ambien",
+    "rate": 7.2,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Ambien",
+    "rate": 7.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Ambien",
+    "rate": 7.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "depression"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Amitriptyline",
+    "rate": 7.6,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "ventricular tachycardia"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "ventricular fibrillation"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "iodine"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "heart block"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Amiodarone",
+    "rate": 4.9,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Amlodipine",
+    "rate": 4.5,
+    "symptom": "angina"
+  },
+  {
+    "name": "Amlodipine",
+    "rate": 4.5,
+    "symptom": "coronary artery disease"
+  },
+  {
+    "name": "Amlodipine Besylate",
+    "rate": 4.5,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Amoxicillin",
+    "rate": 6.4,
+    "symptom": "pneumonia"
+  },
+  {
+    "name": "Amphetamine and dextroamphetamine",
+    "rate": 7.4,
+    "symptom": "narcolepsy"
+  },
+  {
+    "name": "Amphetamine and dextroamphetamine",
+    "rate": 7.4,
+    "symptom": "adhd"
+  },
+  {
+    "name": "Amphetamine and dextroamphetamine",
+    "rate": 7.4,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Amphetamine and dextroamphetamine",
+    "rate": 7.4,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Amphetamine and dextroamphetamine",
+    "rate": 7.4,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "motion sickness"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Antivert",
+    "rate": 7.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Aricept",
+    "rate": 5,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Aricept",
+    "rate": 5,
+    "symptom": "alzheimer's disease"
+  },
+  {
+    "name": "Aripiprazole",
+    "rate": 6.1,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Aripiprazole",
+    "rate": 6.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Aripiprazole",
+    "rate": 6.1,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Aripiprazole",
+    "rate": 6.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Aripiprazole",
+    "rate": 6.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Ascorbic acid",
+    "rate": 7.8,
+    "symptom": "vitamin c deficiency"
+  },
+  {
+    "name": "Aspirin",
+    "rate": 8.3,
+    "symptom": "pain"
+  },
+  {
+    "name": "Aspirin",
+    "rate": 8.3,
+    "symptom": "fever"
+  },
+  {
+    "name": "Aspirin",
+    "rate": 8.3,
+    "symptom": "heart attacks"
+  },
+  {
+    "name": "Ativan",
+    "rate": 8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Ativan",
+    "rate": 8,
+    "symptom": "seizure"
+  },
+  {
+    "name": "Ativan",
+    "rate": 8,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Ativan",
+    "rate": 8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Atorvastatin",
+    "rate": 4.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Azithromycin",
+    "rate": 7,
+    "symptom": "ear infections"
+  },
+  {
+    "name": "Azithromycin",
+    "rate": 7,
+    "symptom": "sexually transmitted diseases"
+  },
+  {
+    "name": "Bacitracin",
+    "rate": 10,
+    "symptom": "conjunctiva"
+  },
+  {
+    "name": "Baclofen",
+    "rate": 7,
+    "symptom": "multiple sclerosis"
+  },
+  {
+    "name": "Baclofen",
+    "rate": 7,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Baclofen",
+    "rate": 7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Bactrim",
+    "rate": 5.5,
+    "symptom": "traveler's diarrhea"
+  },
+  {
+    "name": "Bactrim",
+    "rate": 5.5,
+    "symptom": "shigellosis"
+  },
+  {
+    "name": "Bactrim",
+    "rate": 5.5,
+    "symptom": "pneumonia"
+  },
+  {
+    "name": "Bactrim",
+    "rate": 5.5,
+    "symptom": "kidney stones"
+  },
+  {
+    "name": "Bactrim",
+    "rate": 5.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Bactrim DS",
+    "rate": 4.9,
+    "symptom": "bacterial infections"
+  },
+  {
+    "name": "Benadryl",
+    "rate": 7.2,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Benazepril",
+    "rate": 5.1,
+    "symptom": "angioedema"
+  },
+  {
+    "name": "Benazepril",
+    "rate": 5.1,
+    "symptom": "hypotension"
+  },
+  {
+    "name": "Benicar",
+    "rate": 7.4,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Benicar",
+    "rate": 7.4,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Benicar",
+    "rate": 7.4,
+    "symptom": "diuretics"
+  },
+  {
+    "name": "Benicar",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Benicar",
+    "rate": 7.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Bentyl",
+    "rate": 7.5,
+    "symptom": "irritable bowel syndrome"
+  },
+  {
+    "name": "Bentyl",
+    "rate": 7.5,
+    "symptom": "dicyclomine"
+  },
+  {
+    "name": "Bentyl",
+    "rate": 7.5,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Bentyl",
+    "rate": 7.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Benzonatate",
+    "rate": 4,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Benzonatate",
+    "rate": 4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Benzonatate",
+    "rate": 4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Benztropine",
+    "rate": 6,
+    "symptom": "parkinson's disease"
+  },
+  {
+    "name": "Benztropine",
+    "rate": 6,
+    "symptom": "headache"
+  },
+  {
+    "name": "Benztropine",
+    "rate": 6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Benztropine",
+    "rate": 6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Benztropine",
+    "rate": 6,
+    "symptom": "dry skin"
+  },
+  {
+    "name": "Bicalutamide",
+    "rate": 8,
+    "symptom": "testosterone"
+  },
+  {
+    "name": "Boniva",
+    "rate": 3.4,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Boniva",
+    "rate": 3.4,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Brilinta",
+    "rate": 3.6,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Brimonidine",
+    "rate": 3.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Bupropion",
+    "rate": 7.2,
+    "symptom": "smoking"
+  },
+  {
+    "name": "Buspar",
+    "rate": 6.1,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Buspirone",
+    "rate": 5.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Buspirone Hydrochloride",
+    "rate": 5.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Bystolic",
+    "rate": 6.1,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "kidney failure"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "headache"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "constipation"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Calcitriol",
+    "rate": 7.6,
+    "symptom": "laxatives"
+  },
+  {
+    "name": "Captopril",
+    "rate": 9.3,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "furazolidone"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Carbamazepine",
+    "rate": 6.8,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Carafate",
+    "rate": 6.8,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Carafate",
+    "rate": 6.8,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Cardizem",
+    "rate": 7.2,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Cefdinir",
+    "rate": 4.1,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Cefdinir",
+    "rate": 4.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Cefdinir",
+    "rate": 4.1,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Cefpodoxime",
+    "rate": 7.8,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Cefpodoxime",
+    "rate": 7.8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Cefpodoxime",
+    "rate": 7.8,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Cefpodoxime",
+    "rate": 7.8,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Ceftriaxone",
+    "rate": 8.5,
+    "symptom": "bacterial infections"
+  },
+  {
+    "name": "Cefuroxime",
+    "rate": 6.4,
+    "symptom": "bacterial infections"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "menstrual pain"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "leg swelling"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Celebrex",
+    "rate": 7.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "menstrual pain"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "leg swelling"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Celecoxib",
+    "rate": 7.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Celexa",
+    "rate": 7.3,
+    "symptom": "depression"
+  },
+  {
+    "name": "Cellcept",
+    "rate": 8.7,
+    "symptom": "kidney"
+  },
+  {
+    "name": "Cellcept",
+    "rate": 8.7,
+    "symptom": "liver"
+  },
+  {
+    "name": "Cellcept",
+    "rate": 8.7,
+    "symptom": "heart transplant"
+  },
+  {
+    "name": "Cellcept",
+    "rate": 8.7,
+    "symptom": "viral infection"
+  },
+  {
+    "name": "Cellcept",
+    "rate": 8.7,
+    "symptom": "cyclosporine"
+  },
+  {
+    "name": "Cephalexin",
+    "rate": 6.6,
+    "symptom": "ear infections"
+  },
+  {
+    "name": "Cephalexin",
+    "rate": 6.6,
+    "symptom": "urinary tract infections"
+  },
+  {
+    "name": "Cetirizine",
+    "rate": 6.2,
+    "symptom": "hives"
+  },
+  {
+    "name": "Cialis",
+    "rate": 8.6,
+    "symptom": "erectile dysfunction (impotence)"
+  },
+  {
+    "name": "Cialis",
+    "rate": 8.6,
+    "symptom": "benign prostatic hypertrophy"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "anthrax"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "plague"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "headache"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Cipro",
+    "rate": 5.3,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "rate": 5,
+    "symptom": "antibiotics"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "rate": 5,
+    "symptom": "headache"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "rate": 5,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "rate": 5,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "rate": 5,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Citalopram",
+    "rate": 7.5,
+    "symptom": "depression"
+  },
+  {
+    "name": "Citalopram",
+    "rate": 7.5,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Claritin",
+    "rate": 4.1,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Clindamycin",
+    "rate": 5.7,
+    "symptom": "infections"
+  },
+  {
+    "name": "Clobetasol Topical",
+    "rate": 9,
+    "symptom": "plaque psoriasis"
+  },
+  {
+    "name": "Clobetasol Topical",
+    "rate": 9,
+    "symptom": "acne"
+  },
+  {
+    "name": "Clobetasol Topical",
+    "rate": 9,
+    "symptom": "impotence"
+  },
+  {
+    "name": "Clonazepam",
+    "rate": 8.2,
+    "symptom": "seizure disorders"
+  },
+  {
+    "name": "Clopidogrel",
+    "rate": 7.4,
+    "symptom": "unstable angina"
+  },
+  {
+    "name": "Clopidogrel",
+    "rate": 7.4,
+    "symptom": "thrombolytics"
+  },
+  {
+    "name": "Codeine",
+    "rate": 8,
+    "symptom": "severe pain"
+  },
+  {
+    "name": "Codeine",
+    "rate": 8,
+    "symptom": "drug abuse"
+  },
+  {
+    "name": "Codeine",
+    "rate": 8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Codeine",
+    "rate": 8,
+    "symptom": "respiratory depression"
+  },
+  {
+    "name": "Colchicine",
+    "rate": 7.7,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Colchicine",
+    "rate": 7.7,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Colchicine",
+    "rate": 7.7,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Colchicine",
+    "rate": 7.7,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Colchicine",
+    "rate": 7.7,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Coumadin",
+    "rate": 8.7,
+    "symptom": "stroke"
+  },
+  {
+    "name": "Coumadin",
+    "rate": 8.7,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Crestor",
+    "rate": 6.1,
+    "symptom": "cholesterol"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "rate": 8.7,
+    "symptom": "vitamin b12 deficiency"
+  },
+  {
+    "name": "Cyanocobalamin",
+    "rate": 8.7,
+    "symptom": "pernicious anemia"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "skeletal muscle conditions"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "rate": 6.1,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Cymbalta",
+    "rate": 6.4,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Cymbalta",
+    "rate": 6.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Daliresp",
+    "rate": 7.3,
+    "symptom": "copd"
+  },
+  {
+    "name": "Dapsone",
+    "rate": 8.1,
+    "symptom": "dermatitis herpetiformis"
+  },
+  {
+    "name": "Dapsone",
+    "rate": 8.1,
+    "symptom": "leprosy"
+  },
+  {
+    "name": "Dapsone",
+    "rate": 8.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Depakote",
+    "rate": 6.3,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Depakote",
+    "rate": 6.3,
+    "symptom": "epilepsy"
+  },
+  {
+    "name": "Depakote",
+    "rate": 6.3,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Depakote",
+    "rate": 6.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Depakote",
+    "rate": 6.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Desloratadine",
+    "rate": 5.2,
+    "symptom": "hives"
+  },
+  {
+    "name": "Desloratadine",
+    "rate": 5.2,
+    "symptom": "allergic rhinitis"
+  },
+  {
+    "name": "Desloratadine",
+    "rate": 5.2,
+    "symptom": "pruritus"
+  },
+  {
+    "name": "Desloratadine",
+    "rate": 5.2,
+    "symptom": "urticaria"
+  },
+  {
+    "name": "Desvenlafaxine",
+    "rate": 6.9,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Desvenlafaxine",
+    "rate": 6.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Desvenlafaxine",
+    "rate": 6.9,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Desvenlafaxine",
+    "rate": 6.9,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "heartburn"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "complera"
+  },
+  {
+    "name": "Dexilant",
+    "rate": 6.8,
+    "symptom": "odefsey"
+  },
+  {
+    "name": "Dextromethorphan",
+    "rate": 3.7,
+    "symptom": "cough"
+  },
+  {
+    "name": "Diazepam",
+    "rate": 8.5,
+    "symptom": "alcohol withdrawal"
+  },
+  {
+    "name": "Diazepam",
+    "rate": 8.5,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Diazepam",
+    "rate": 8.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Diazepam",
+    "rate": 8.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "stroke"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Diclofenac",
+    "rate": 7.6,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Diclofenac Sodium",
+    "rate": 7.6,
+    "symptom": "inflammatory diseases"
+  },
+  {
+    "name": "Dicyclomine",
+    "rate": 7.6,
+    "symptom": "irritable bowel syndrome"
+  },
+  {
+    "name": "Dicyclomine",
+    "rate": 7.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Dicyclomine",
+    "rate": 7.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Diflucan",
+    "rate": 6.2,
+    "symptom": "fungus"
+  },
+  {
+    "name": "Digoxin",
+    "rate": 5.6,
+    "symptom": "heart failure"
+  },
+  {
+    "name": "Digoxin",
+    "rate": 5.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Digoxin",
+    "rate": 5.6,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Digoxin",
+    "rate": 5.6,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "cimetidine"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "omeprazole"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "st. john's wort"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "folic acid"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Dilantin",
+    "rate": 7.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Diltiazem",
+    "rate": 6.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Diltiazem",
+    "rate": 6.4,
+    "symptom": "angina"
+  },
+  {
+    "name": "Diovan",
+    "rate": 6.6,
+    "symptom": "high blood pressure (hypertension)"
+  },
+  {
+    "name": "Diovan",
+    "rate": 6.6,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "sneezing"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "runny nose"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "watery eyes"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "hives"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "itching"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "cold"
+  },
+  {
+    "name": "Diphenhydramine",
+    "rate": 5.8,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Ditropan",
+    "rate": 4.6,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Divalproex",
+    "rate": 6.5,
+    "symptom": "mania"
+  },
+  {
+    "name": "Divalproex sodium",
+    "rate": 6.5,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Divalproex sodium",
+    "rate": 6.5,
+    "symptom": "epilepsy"
+  },
+  {
+    "name": "Divalproex sodium",
+    "rate": 6.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Divalproex sodium",
+    "rate": 6.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "drooling"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "slow heartbeat"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Donepezil",
+    "rate": 5.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Doxazosin",
+    "rate": 6.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Doxazosin",
+    "rate": 6.4,
+    "symptom": "benign prostatic hyperplasia"
+  },
+  {
+    "name": "Doxepin",
+    "rate": 6.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Doxepin",
+    "rate": 6.2,
+    "symptom": "depression"
+  },
+  {
+    "name": "Doxycycline",
+    "rate": 6.6,
+    "symptom": "urinary tract infections"
+  },
+  {
+    "name": "Doxycycline",
+    "rate": 6.6,
+    "symptom": "gonorrhea"
+  },
+  {
+    "name": "Doxycycline",
+    "rate": 6.6,
+    "symptom": "chlamydia"
+  },
+  {
+    "name": "Doxycycline Hyclate",
+    "rate": 6.6,
+    "symptom": "warnings"
+  },
+  {
+    "name": "Doxycycline Hyclate",
+    "rate": 6.6,
+    "symptom": "dosage and administration"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "depression"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "parkinson's disease"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "nausea and vomiting"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "serotonin syndrome"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "advil"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Duloxetine",
+    "rate": 6.3,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Dutasteride",
+    "rate": 6.9,
+    "symptom": "urinary retention"
+  },
+  {
+    "name": "Dutasteride",
+    "rate": 6.9,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Dutasteride",
+    "rate": 6.9,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Econazole topical",
+    "rate": 7.8,
+    "symptom": "athlete's foot"
+  },
+  {
+    "name": "Econazole topical",
+    "rate": 7.8,
+    "symptom": "jock itch"
+  },
+  {
+    "name": "Econazole topical",
+    "rate": 7.8,
+    "symptom": "ringworm"
+  },
+  {
+    "name": "Effexor",
+    "rate": 5.9,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Effexor",
+    "rate": 5.9,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "panic disorder"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "advil"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Effexor XR",
+    "rate": 6.9,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "unstable angina"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "advil"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Effient",
+    "rate": 7.1,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Efudex",
+    "rate": 7.4,
+    "symptom": "keratoses"
+  },
+  {
+    "name": "Efudex",
+    "rate": 7.4,
+    "symptom": "basal cell carcinoma"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "depression"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Elavil",
+    "rate": 7.7,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Elocon",
+    "rate": 9.3,
+    "symptom": "eczema"
+  },
+  {
+    "name": "Elocon",
+    "rate": 9.3,
+    "symptom": "psoriasis"
+  },
+  {
+    "name": "Elocon",
+    "rate": 9.3,
+    "symptom": "diaper rash"
+  },
+  {
+    "name": "Elocon",
+    "rate": 9.3,
+    "symptom": "acne"
+  },
+  {
+    "name": "Elocon",
+    "rate": 9.3,
+    "symptom": "impotence"
+  },
+  {
+    "name": "Enalapril",
+    "rate": 5.1,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Enoxaparin",
+    "rate": 7.4,
+    "symptom": "deep vein thrombosis"
+  },
+  {
+    "name": "Enoxaparin",
+    "rate": 7.4,
+    "symptom": "dvt"
+  },
+  {
+    "name": "Enoxaparin",
+    "rate": 7.4,
+    "symptom": "pulmonary embolism"
+  },
+  {
+    "name": "Enoxaparin",
+    "rate": 7.4,
+    "symptom": "back pain"
+  },
+  {
+    "name": "Enoxaparin",
+    "rate": 7.4,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ergocalciferol",
+    "rate": 7,
+    "symptom": "hypoparathyroidism"
+  },
+  {
+    "name": "Ergocalciferol",
+    "rate": 7,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Erythromycin",
+    "rate": 6.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Erythromycin",
+    "rate": 6.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Erythromycin ophthalmic",
+    "rate": 5.4,
+    "symptom": "erythromycin"
+  },
+  {
+    "name": "Escitalopram",
+    "rate": 7.5,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Escitalopram",
+    "rate": 7.5,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "lansoprazole"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "omeprazole"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "pantoprazole"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "rabeprazole"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "dexilant"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "nexium"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "prevacid"
+  },
+  {
+    "name": "Esomeprazole",
+    "rate": 6.9,
+    "symptom": "protonix"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "hot flashes"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "grapefruit juice"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Estrace",
+    "rate": 7.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Estradiol",
+    "rate": 6.2,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Estradiol",
+    "rate": 6.2,
+    "symptom": "grapefruit juice"
+  },
+  {
+    "name": "Estradiol",
+    "rate": 6.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Estradiol",
+    "rate": 6.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Eszopiclone",
+    "rate": 5.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Eszopiclone",
+    "rate": 5.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Etodolac",
+    "rate": 7.6,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Etodolac",
+    "rate": 7.6,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Etodolac",
+    "rate": 7.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Etodolac",
+    "rate": 7.6,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Euthyrox",
+    "rate": 1.9,
+    "symptom": "hypothyroidism"
+  },
+  {
+    "name": "Euthyrox",
+    "rate": 1.9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Exelon",
+    "rate": 6.4,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Exelon",
+    "rate": 6.4,
+    "symptom": "parkinson's disease"
+  },
+  {
+    "name": "Exelon",
+    "rate": 6.4,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Exforge",
+    "rate": 6,
+    "symptom": "angiotensin ii receptor antagonist"
+  },
+  {
+    "name": "Ezetimibe",
+    "rate": 4.2,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Famotidine",
+    "rate": 5.6,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Famotidine",
+    "rate": 5.6,
+    "symptom": "gaviscon"
+  },
+  {
+    "name": "Famotidine",
+    "rate": 5.6,
+    "symptom": "milk of magnesia"
+  },
+  {
+    "name": "Famotidine",
+    "rate": 5.6,
+    "symptom": "rolaids"
+  },
+  {
+    "name": "Felodipine",
+    "rate": 6.8,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Felodipine",
+    "rate": 6.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Felodipine",
+    "rate": 6.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Fenofibrate",
+    "rate": 5.8,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Fenofibrate",
+    "rate": 5.8,
+    "symptom": "high triglyceride levels"
+  },
+  {
+    "name": "Fenofibrate",
+    "rate": 5.8,
+    "symptom": "kidney failure"
+  },
+  {
+    "name": "Fexofenadine",
+    "rate": 6.4,
+    "symptom": "hives"
+  },
+  {
+    "name": "Fexofenadine",
+    "rate": 6.4,
+    "symptom": "urticaria"
+  },
+  {
+    "name": "Fexofenadine",
+    "rate": 6.4,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Fexofenadine",
+    "rate": 6.4,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Finasteride",
+    "rate": 5,
+    "symptom": "hair loss"
+  },
+  {
+    "name": "Finasteride",
+    "rate": 5,
+    "symptom": "bph"
+  },
+  {
+    "name": "Flecainide",
+    "rate": 7.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Flecainide",
+    "rate": 7.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Flecainide",
+    "rate": 7.6,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "skeletal muscle conditions"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Flexeril",
+    "rate": 6.2,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Flagyl",
+    "rate": 6.4,
+    "symptom": "vagina"
+  },
+  {
+    "name": "Flomax",
+    "rate": 6.2,
+    "symptom": "benign prostatic hyperplasia"
+  },
+  {
+    "name": "Florinef",
+    "rate": 8.5,
+    "symptom": "mineralocorticoid"
+  },
+  {
+    "name": "Fluconazole",
+    "rate": 6.6,
+    "symptom": "asthma"
+  },
+  {
+    "name": "Fluconazole",
+    "rate": 6.6,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "addison's disease"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "adrenogenital syndrome"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "headache"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "cortisone"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "hydrocortisone"
+  },
+  {
+    "name": "Fludrocortisone",
+    "rate": 7.7,
+    "symptom": "adrenocortical insufficiency"
+  },
+  {
+    "name": "Fluocinonide",
+    "rate": 8.7,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Fluorouracil",
+    "rate": 9,
+    "symptom": "cancers"
+  },
+  {
+    "name": "Fluoxetine",
+    "rate": 7.4,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Fluoxetine",
+    "rate": 7.4,
+    "symptom": "obsessive-compulsive disorder"
+  },
+  {
+    "name": "Fluoxetine",
+    "rate": 7.4,
+    "symptom": "prozac weekly"
+  },
+  {
+    "name": "Fluoxetine",
+    "rate": 7.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Fluoxetine",
+    "rate": 7.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "social anxiety disorder"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "social phobia"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "advil"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Fluvoxamine",
+    "rate": 6.9,
+    "symptom": "obsessive compulsive disorder"
+  },
+  {
+    "name": "Folic Acid",
+    "rate": 7.3,
+    "symptom": "cancer"
+  },
+  {
+    "name": "Fosamax",
+    "rate": 2.5,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Fosamax",
+    "rate": 2.5,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Gabapentin",
+    "rate": 7.2,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Gabapentin",
+    "rate": 7.2,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Gabapentin",
+    "rate": 7.2,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Gabapentin",
+    "rate": 7.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Gabapentin",
+    "rate": 7.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Gabitril",
+    "rate": 6,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Gabitril",
+    "rate": 6,
+    "symptom": "tiagabine"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "watery eyes"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "drooling"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Galantamine",
+    "rate": 8.1,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Gemcitabine",
+    "rate": 8,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Gemcitabine",
+    "rate": 8,
+    "symptom": "influenza"
+  },
+  {
+    "name": "Gemfibrozil",
+    "rate": 6,
+    "symptom": "cholesterol"
+  },
+  {
+    "name": "Gemfibrozil",
+    "rate": 6,
+    "symptom": "triglyceride"
+  },
+  {
+    "name": "Gemzar",
+    "rate": 7.8,
+    "symptom": "pancreas"
+  },
+  {
+    "name": "Gemzar",
+    "rate": 7.8,
+    "symptom": "lung"
+  },
+  {
+    "name": "Gemzar",
+    "rate": 7.8,
+    "symptom": "ovary"
+  },
+  {
+    "name": "Gemzar",
+    "rate": 7.8,
+    "symptom": "breast"
+  },
+  {
+    "name": "Gentamicin",
+    "rate": "",
+    "symptom": "gentamicin"
+  },
+  {
+    "name": "Geodon",
+    "rate": 5.7,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Gleevec",
+    "rate": 8.7,
+    "symptom": "leukemia"
+  },
+  {
+    "name": "Gleevec",
+    "rate": 8.7,
+    "symptom": "skin cancer"
+  },
+  {
+    "name": "Gleevec",
+    "rate": 8.7,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Glimepiride",
+    "rate": 6.7,
+    "symptom": "fast heart rate"
+  },
+  {
+    "name": "Glimepiride",
+    "rate": 6.7,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Glimepiride",
+    "rate": 6.7,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Glimepiride",
+    "rate": 6.7,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Glimepiride",
+    "rate": 6.7,
+    "symptom": "colesevelam"
+  },
+  {
+    "name": "Glipizide",
+    "rate": 6.2,
+    "symptom": "diabetes mellitus"
+  },
+  {
+    "name": "Glipizide",
+    "rate": 6.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Glipizide",
+    "rate": 6.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Glucagen",
+    "rate": "",
+    "symptom": "hypoglycemia"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "hypoglycemia"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "pheochromocytoma"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Glucagon",
+    "rate": 10,
+    "symptom": "headache"
+  },
+  {
+    "name": "Glucophage",
+    "rate": 6.9,
+    "symptom": "type 2 diabetes mellitus"
+  },
+  {
+    "name": "Glucophage",
+    "rate": 6.9,
+    "symptom": "x-ray"
+  },
+  {
+    "name": "Glucophage",
+    "rate": 6.9,
+    "symptom": "ct scan"
+  },
+  {
+    "name": "Glucophage",
+    "rate": 6.9,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "diabetes mellitus"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "sulfonylureas"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "colesevelam"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Glucotrol",
+    "rate": 7.6,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Glucotrol XL",
+    "rate": "",
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Glumetza",
+    "rate": 9.5,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Glumetza",
+    "rate": 9.5,
+    "symptom": "type 1 diabetes"
+  },
+  {
+    "name": "Glumetza",
+    "rate": 9.5,
+    "symptom": "metformin"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "type 2 diabetes mellitus"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "sunscreen"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Glyburide",
+    "rate": 7.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Glyburide and metformin",
+    "rate": 5.3,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Glyburide and metformin",
+    "rate": 5.3,
+    "symptom": "type 1 diabetes"
+  },
+  {
+    "name": "Glyburide and metformin",
+    "rate": 5.3,
+    "symptom": "colesevelam"
+  },
+  {
+    "name": "Glyburide and metformin",
+    "rate": 5.3,
+    "symptom": "diabetes mellitus"
+  },
+  {
+    "name": "GlycoLax",
+    "rate": "",
+    "symptom": "constipation"
+  },
+  {
+    "name": "Glycopyrrolate",
+    "rate": 8.4,
+    "symptom": "drooling"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "pain from damaged nerves (neuropathic pain)"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "copd"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Gralise",
+    "rate": 6.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Griseofulvin",
+    "rate": 5.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Griseofulvin",
+    "rate": 5.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Guaifenesin",
+    "rate": 7.1,
+    "symptom": "common cold"
+  },
+  {
+    "name": "Guaifenesin",
+    "rate": 7.1,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Guanfacine",
+    "rate": 5.9,
+    "symptom": "tenex"
+  },
+  {
+    "name": "Guanfacine",
+    "rate": 5.9,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Guanfacine",
+    "rate": 5.9,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Guanfacine",
+    "rate": 5.9,
+    "symptom": "depression"
+  },
+  {
+    "name": "Halcion",
+    "rate": 8.3,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Halcion",
+    "rate": 8.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Halcion",
+    "rate": 8.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "tourette's syndrome"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "haloperidol"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Haldol",
+    "rate": 4.7,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Halobetasol topical",
+    "rate": 8.6,
+    "symptom": "plaque psoriasis"
+  },
+  {
+    "name": "Halobetasol topical",
+    "rate": 8.6,
+    "symptom": "acne"
+  },
+  {
+    "name": "Halobetasol topical",
+    "rate": 8.6,
+    "symptom": "impotence"
+  },
+  {
+    "name": "Haloperidol",
+    "rate": 4.6,
+    "symptom": "tourette's syndrome"
+  },
+  {
+    "name": "Haloperidol",
+    "rate": 4.6,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Haloperidol",
+    "rate": 4.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Haloperidol",
+    "rate": 4.6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Haloperidol",
+    "rate": 4.6,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Heparin",
+    "rate": 1,
+    "symptom": "blood clots"
+  },
+  {
+    "name": "Heparin",
+    "rate": 1,
+    "symptom": "nosebleeds"
+  },
+  {
+    "name": "Hydralazine",
+    "rate": 2.4,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Hydralazine Hydrochloride",
+    "rate": 2.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Hydrea",
+    "rate": 6.5,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Hydrea",
+    "rate": 6.5,
+    "symptom": "influenza"
+  },
+  {
+    "name": "Hydrea",
+    "rate": 6.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Hydrea",
+    "rate": 6.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Hydrocodone",
+    "rate": 5.7,
+    "symptom": "severe pain"
+  },
+  {
+    "name": "Hydrocodone",
+    "rate": 5.7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Hydrocodone and acetaminophen",
+    "rate": 6.7,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "rate": 6.6,
+    "symptom": "tamoxifen"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "rate": 6.6,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "rate": 6.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "rate": 6.6,
+    "symptom": "kaopectate"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "rate": 6.6,
+    "symptom": "kaolin"
+  },
+  {
+    "name": "Hydroxyurea",
+    "rate": 6.8,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Hydroxyurea",
+    "rate": 6.8,
+    "symptom": "influenza"
+  },
+  {
+    "name": "Hydroxyurea",
+    "rate": 6.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Hydroxyurea",
+    "rate": 6.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Hydroxyzine",
+    "rate": 5.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Hydroxyzine",
+    "rate": 5.8,
+    "symptom": "tension"
+  },
+  {
+    "name": "Hydroxyzine Hydrochloride",
+    "rate": 5.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Hydroxyzine Hydrochloride",
+    "rate": 5.8,
+    "symptom": "tension"
+  },
+  {
+    "name": "Hysingla ER",
+    "rate": 4.1,
+    "symptom": "severe pain"
+  },
+  {
+    "name": "Hysingla ER",
+    "rate": 4.1,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Hydroxyzine Pamoate",
+    "rate": 5.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Hydroxyzine Pamoate",
+    "rate": 5.8,
+    "symptom": "tension"
+  },
+  {
+    "name": "Hytrin",
+    "rate": 7.3,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Ibandronate",
+    "rate": 3.5,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Ibu",
+    "rate": 10,
+    "symptom": "headache"
+  },
+  {
+    "name": "Ibu",
+    "rate": 10,
+    "symptom": "toothache"
+  },
+  {
+    "name": "Ibu",
+    "rate": 10,
+    "symptom": "back pain"
+  },
+  {
+    "name": "Ibu",
+    "rate": 10,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ibuprofen",
+    "rate": 7.5,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Ibuprofen",
+    "rate": 7.5,
+    "symptom": "menstrual cramps"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Imipramine",
+    "rate": 6.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Imdur",
+    "rate": 6.1,
+    "symptom": "angina attacks"
+  },
+  {
+    "name": "Imiquimod",
+    "rate": 6.9,
+    "symptom": "actinic keratosis"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Imitrex",
+    "rate": 7.9,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Imodium",
+    "rate": 7.7,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Imodium A-D",
+    "rate": 8.3,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Imuran",
+    "rate": 5.9,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Imuran",
+    "rate": 5.9,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "gouty arthritis"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "bursitis"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Indocin",
+    "rate": 8,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "gouty arthritis"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "bursitis"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Indomethacin",
+    "rate": 7.8,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Inspra",
+    "rate": 10,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Intuniv",
+    "rate": 6.3,
+    "symptom": "attention deficit hyperactivity disorder (adhd)"
+  },
+  {
+    "name": "Intuniv",
+    "rate": 6.3,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Intuniv",
+    "rate": 6.3,
+    "symptom": "depression"
+  },
+  {
+    "name": "Invega",
+    "rate": 4.8,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "invega trinza"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "headache"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Invega Sustenna",
+    "rate": 4.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Ipratropium",
+    "rate": 7.5,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Ipratropium Bromide",
+    "rate": 7.5,
+    "symptom": "copd"
+  },
+  {
+    "name": "Irbesartan",
+    "rate": 4.6,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Irbesartan",
+    "rate": 4.6,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Irbesartan",
+    "rate": 4.6,
+    "symptom": "kidney failure"
+  },
+  {
+    "name": "Isoniazid",
+    "rate": 5.6,
+    "symptom": "tuberculosis"
+  },
+  {
+    "name": "Isoniazid",
+    "rate": 5.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Isoniazid",
+    "rate": 5.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Isosorbide",
+    "rate": 5.2,
+    "symptom": "angina attacks"
+  },
+  {
+    "name": "Isosorbide dinitrate",
+    "rate": 3.4,
+    "symptom": "angina"
+  },
+  {
+    "name": "Isosorbide dinitrate",
+    "rate": 3.4,
+    "symptom": "headache"
+  },
+  {
+    "name": "Isosorbide mononitrate",
+    "rate": 5.2,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Isotretinoin",
+    "rate": 8,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Isotretinoin",
+    "rate": 8,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "antacids"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "amphojel"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "gaviscon"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "mylanta"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "rulox"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Jadenu",
+    "rate": "",
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "colchicine"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "fesoterodine"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "solifenacin"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Itraconazole",
+    "rate": 7.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Jalyn",
+    "rate": 5.9,
+    "symptom": "finasteride"
+  },
+  {
+    "name": "Jalyn",
+    "rate": 5.9,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Jalyn",
+    "rate": 5.9,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Jalyn",
+    "rate": 5.9,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Jantoven",
+    "rate": 9,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Janumet",
+    "rate": 6,
+    "symptom": "blood sugar levels"
+  },
+  {
+    "name": "Janumet XR",
+    "rate": 7,
+    "symptom": "metformin"
+  },
+  {
+    "name": "Janumet XR",
+    "rate": 7,
+    "symptom": "sitagliptin"
+  },
+  {
+    "name": "Janumet XR",
+    "rate": 7,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Janumet XR",
+    "rate": 7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Janumet XR",
+    "rate": 7,
+    "symptom": "nausea and vomiting"
+  },
+  {
+    "name": "Januvia",
+    "rate": 5,
+    "symptom": "type 2 diabetes mellitus"
+  },
+  {
+    "name": "Januvia",
+    "rate": 5,
+    "symptom": "weight gain"
+  },
+  {
+    "name": "Januvia",
+    "rate": 5,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Jencycla",
+    "rate": 4.7,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Junel",
+    "rate": 5.2,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Junel 1.5/30",
+    "rate": 5.2,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Junel Fe 1/20",
+    "rate": 4.4,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Junel Fe 1.5/30",
+    "rate": 4.8,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Kaletra",
+    "rate": 8.3,
+    "symptom": "hiv"
+  },
+  {
+    "name": "Kayexalate",
+    "rate": "",
+    "symptom": "hyperkalemia"
+  },
+  {
+    "name": "Keflex",
+    "rate": 7.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Keflex",
+    "rate": 7.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Keflex",
+    "rate": 7.6,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Keppra",
+    "rate": 5.9,
+    "symptom": "partial onset seizures"
+  },
+  {
+    "name": "Keppra",
+    "rate": 5.9,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Keppra",
+    "rate": 5.9,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Keppra",
+    "rate": 5.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Keppra",
+    "rate": 5.9,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Ketalar",
+    "rate": 4.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Ketalar",
+    "rate": 4.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Keppra XR",
+    "rate": 7.2,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Keppra XR",
+    "rate": 7.2,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Keppra XR",
+    "rate": 7.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Keppra XR",
+    "rate": 7.2,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Ketamine",
+    "rate": 5.2,
+    "symptom": "respiratory depression"
+  },
+  {
+    "name": "Ketamine",
+    "rate": 5.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Ketamine",
+    "rate": 5.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Ketoconazole",
+    "rate": 6.5,
+    "symptom": "liver transplant"
+  },
+  {
+    "name": "Ketoconazole",
+    "rate": 6.5,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Ketoconazole",
+    "rate": 6.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Ketoconazole",
+    "rate": 6.5,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Ketoconazole Cream",
+    "rate": 7,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Ketoconazole Shampoo",
+    "rate": 7,
+    "symptom": "non-contagious infection"
+  },
+  {
+    "name": "Ketoconazole topical",
+    "rate": 7,
+    "symptom": "athlete's foot"
+  },
+  {
+    "name": "Ketoconazole topical",
+    "rate": 7,
+    "symptom": "jock itch"
+  },
+  {
+    "name": "Ketoconazole topical",
+    "rate": 7,
+    "symptom": "ringworm"
+  },
+  {
+    "name": "Ketoprofen",
+    "rate": 9.4,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ketorolac",
+    "rate": 6.8,
+    "symptom": "athlete's foot"
+  },
+  {
+    "name": "Ketorolac",
+    "rate": 6.8,
+    "symptom": "jock itch"
+  },
+  {
+    "name": "Ketorolac",
+    "rate": 6.8,
+    "symptom": "ringworm"
+  },
+  {
+    "name": "Ketorolac Tromethamine",
+    "rate": 6.8,
+    "symptom": "pain"
+  },
+  {
+    "name": "Ketotifen",
+    "rate": 7.1,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Ketotifen ophthalmic",
+    "rate": 7.1,
+    "symptom": "sneezing"
+  },
+  {
+    "name": "Ketotifen ophthalmic",
+    "rate": 7.1,
+    "symptom": "itching"
+  },
+  {
+    "name": "Ketotifen ophthalmic",
+    "rate": 7.1,
+    "symptom": "watery eyes"
+  },
+  {
+    "name": "Ketotifen ophthalmic",
+    "rate": 7.1,
+    "symptom": "runny nose"
+  },
+  {
+    "name": "Klonopin",
+    "rate": 8.5,
+    "symptom": "seizure disorders"
+  },
+  {
+    "name": "Klor-Con",
+    "rate": 6.9,
+    "symptom": "low blood levels of potassium (hypokalemia)"
+  },
+  {
+    "name": "Klor-Con",
+    "rate": 6.9,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Kyleena",
+    "rate": 6.8,
+    "symptom": "mirena"
+  },
+  {
+    "name": "Kyleena",
+    "rate": 6.8,
+    "symptom": "heavy menstrual bleeding"
+  },
+  {
+    "name": "Kyleena",
+    "rate": 6.8,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Kyleena",
+    "rate": 6.8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Kytril",
+    "rate": 8.5,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Kytril",
+    "rate": 8.5,
+    "symptom": "chemotherapy"
+  },
+  {
+    "name": "Lacosamide",
+    "rate": 7.1,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Lactulose",
+    "rate": 7.9,
+    "symptom": "constipation"
+  },
+  {
+    "name": "Lactulose",
+    "rate": 7.9,
+    "symptom": "colonoscopy"
+  },
+  {
+    "name": "Lamictal",
+    "rate": 8,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Lamictal",
+    "rate": 8,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Lamictal",
+    "rate": 8,
+    "symptom": "depression"
+  },
+  {
+    "name": "Lamictal",
+    "rate": 8,
+    "symptom": "headache"
+  },
+  {
+    "name": "Lamictal",
+    "rate": 8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "depression"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "headache"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Lamotrigine",
+    "rate": 7.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Lansoprazole",
+    "rate": 7.4,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Lansoprazole",
+    "rate": 7.4,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Lansoprazole",
+    "rate": 7.4,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Lansoprazole",
+    "rate": 7.4,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Latanoprost",
+    "rate": 5.3,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Latuda",
+    "rate": 6.4,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Latuda",
+    "rate": 6.4,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Latuda",
+    "rate": 6.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Latuda",
+    "rate": 6.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "tylenol"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "advil"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "tuberculosis"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "chemotherapy"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Leflunomide",
+    "rate": 5.4,
+    "symptom": "influenza"
+  },
+  {
+    "name": "Levetiracetam",
+    "rate": 6,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Levetiracetam",
+    "rate": 6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Levetiracetam",
+    "rate": 6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Levetiracetam",
+    "rate": 6,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Levaquin",
+    "rate": 5.3,
+    "symptom": "plague"
+  },
+  {
+    "name": "Levaquin",
+    "rate": 5.3,
+    "symptom": "organ transplant"
+  },
+  {
+    "name": "Levaquin",
+    "rate": 5.3,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Levocetirizine",
+    "rate": 5.8,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Levofloxacin",
+    "rate": 5.2,
+    "symptom": "antibiotics"
+  },
+  {
+    "name": "Levofloxacin",
+    "rate": 5.2,
+    "symptom": "headache"
+  },
+  {
+    "name": "Levofloxacin",
+    "rate": 5.2,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Levofloxacin",
+    "rate": 5.2,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Levofloxacin",
+    "rate": 5.2,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Levothyroxine",
+    "rate": 5.9,
+    "symptom": "hypothyroidism (low thyroid hormone)"
+  },
+  {
+    "name": "Levothyroxine",
+    "rate": 5.9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Levoxyl",
+    "rate": 6.9,
+    "symptom": "hypothyroidism (low thyroid hormone)"
+  },
+  {
+    "name": "Levoxyl",
+    "rate": 6.9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Lexapro",
+    "rate": 7.6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Lexapro",
+    "rate": 7.6,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Librax",
+    "rate": 9,
+    "symptom": "stomach ulcers"
+  },
+  {
+    "name": "Librax",
+    "rate": 9,
+    "symptom": "irritable bowel syndrome"
+  },
+  {
+    "name": "Lidocaine",
+    "rate": 6,
+    "symptom": "infiltration"
+  },
+  {
+    "name": "Lidocaine",
+    "rate": 6,
+    "symptom": "nerve block"
+  },
+  {
+    "name": "Lipitor",
+    "rate": 4.8,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Lisinopril",
+    "rate": 5.2,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Lithium",
+    "rate": 7.4,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Lithium",
+    "rate": 7.4,
+    "symptom": "depression"
+  },
+  {
+    "name": "Lomotil",
+    "rate": 7.7,
+    "symptom": "spasms"
+  },
+  {
+    "name": "Loperamide",
+    "rate": 8.3,
+    "symptom": "ileostomy"
+  },
+  {
+    "name": "Lopid",
+    "rate": 8,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Lopid",
+    "rate": 8,
+    "symptom": "pancreatitis"
+  },
+  {
+    "name": "Lopid",
+    "rate": 8,
+    "symptom": "kidney failure"
+  },
+  {
+    "name": "Loratadine",
+    "rate": 5.2,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Lorazepam",
+    "rate": 8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Lorazepam",
+    "rate": 8,
+    "symptom": "seizure"
+  },
+  {
+    "name": "Lorazepam",
+    "rate": 8,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Lorazepam",
+    "rate": 8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Losartan",
+    "rate": 4.7,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Losartan Potassium",
+    "rate": 4.7,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Lovastatin",
+    "rate": 6.1,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Lovastatin",
+    "rate": 6.1,
+    "symptom": "coronary heart disease"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "deep vein thrombosis (dvt)"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "(pulmonary embolism)"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "advil"
+  },
+  {
+    "name": "Lovenox",
+    "rate": 6.9,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "social anxiety disorder"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "social phobia"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "advil"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Luvox",
+    "rate": 7.2,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Lyrica",
+    "rate": 6.5,
+    "symptom": "fibromyalgia"
+  },
+  {
+    "name": "Lyrica",
+    "rate": 6.5,
+    "symptom": "herpes zoster"
+  },
+  {
+    "name": "Lyrica",
+    "rate": 6.5,
+    "symptom": "neuralgia"
+  },
+  {
+    "name": "Lyrica",
+    "rate": 6.5,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Lyrica",
+    "rate": 6.5,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Macrobid",
+    "rate": 4.6,
+    "symptom": "urinary tract infections"
+  },
+  {
+    "name": "Macrodantin",
+    "rate": 5.9,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Maxalt",
+    "rate": 8.8,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Meclizine",
+    "rate": 7.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Meclizine",
+    "rate": 7.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Meclizine",
+    "rate": 7.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Memantine",
+    "rate": 5.4,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Mesalamine",
+    "rate": 7.1,
+    "symptom": "ulcerative colitis"
+  },
+  {
+    "name": "Mesalamine",
+    "rate": 7.1,
+    "symptom": "colitis"
+  },
+  {
+    "name": "Mesalamine",
+    "rate": 7.1,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Mesalamine",
+    "rate": 7.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Mesalamine",
+    "rate": 7.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Metformin",
+    "rate": 7,
+    "symptom": "type 2 diabetes mellitus"
+  },
+  {
+    "name": "Metformin",
+    "rate": 7,
+    "symptom": "x-ray"
+  },
+  {
+    "name": "Metformin",
+    "rate": 7,
+    "symptom": "ct scan"
+  },
+  {
+    "name": "Metformin Hydrochloride",
+    "rate": 7,
+    "symptom": "type 2 diabetes mellitus"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "hyperthyroidism"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "iodine"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "upset stomach"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "headache"
+  },
+  {
+    "name": "Methimazole",
+    "rate": 5,
+    "symptom": "goiter"
+  },
+  {
+    "name": "Methocarbamol",
+    "rate": 6.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Methocarbamol",
+    "rate": 6.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Methocarbamol",
+    "rate": 6.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "leukemia"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "alcoholism"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "coughing up blood"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Methotrexate",
+    "rate": 6.7,
+    "symptom": "influenza"
+  },
+  {
+    "name": "Metoclopramide",
+    "rate": 4.1,
+    "symptom": "heartburn"
+  },
+  {
+    "name": "Metoclopramide",
+    "rate": 4.1,
+    "symptom": "reflux"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "glaucoma"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "valium"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "xanax"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "ativan"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Midazolam",
+    "rate": 4.8,
+    "symptom": "grapefruit juice"
+  },
+  {
+    "name": "Metronidazole",
+    "rate": 6.2,
+    "symptom": "bacterial infections"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "low blood pressure"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "hypotension"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "phenylephrine"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "pseudoephedrine"
+  },
+  {
+    "name": "Midodrine",
+    "rate": 6.9,
+    "symptom": "orthostatic hypotension"
+  },
+  {
+    "name": "Minocycline",
+    "rate": 6,
+    "symptom": "syphilis"
+  },
+  {
+    "name": "Minocycline",
+    "rate": 6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Minocycline",
+    "rate": 6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Minocycline",
+    "rate": 6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "MiraLAX",
+    "rate": 7.5,
+    "symptom": "constipation"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "fast heart rate"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Mirtazapine",
+    "rate": 6.8,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Mobic",
+    "rate": 7.5,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Mobic",
+    "rate": 7.5,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "nonsteroidal anti-inflammatory drugs"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "advil"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Montelukast",
+    "rate": 5.4,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Motrin",
+    "rate": 9,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Motrin",
+    "rate": 9,
+    "symptom": "menstrual cramps"
+  },
+  {
+    "name": "Mucinex",
+    "rate": 6.4,
+    "symptom": "common cold"
+  },
+  {
+    "name": "Mucinex",
+    "rate": 6.4,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Mupirocin topical",
+    "rate": 6.7,
+    "symptom": "impetigo"
+  },
+  {
+    "name": "Nabumetone",
+    "rate": 5.7,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Nabumetone",
+    "rate": 5.7,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Nabumetone",
+    "rate": 5.7,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Naloxone",
+    "rate": 7.8,
+    "symptom": "narcotic overdose"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "alcohol dependence"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "alcohol withdrawal"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "opioid withdrawal"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "watery eyes"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "runny nose"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Naltrexone",
+    "rate": 8.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Namenda",
+    "rate": 4.5,
+    "symptom": "alzheimer's"
+  },
+  {
+    "name": "Namzaric",
+    "rate": 9,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Namzaric",
+    "rate": 9,
+    "symptom": "alzheimer's"
+  },
+  {
+    "name": "Naprosyn",
+    "rate": 7.3,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Naprosyn",
+    "rate": 7.3,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Naprosyn",
+    "rate": 7.3,
+    "symptom": "tendinitis"
+  },
+  {
+    "name": "Naproxen",
+    "rate": 6.9,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Naproxen",
+    "rate": 6.9,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Naproxen",
+    "rate": 6.9,
+    "symptom": "bursitis"
+  },
+  {
+    "name": "Narcan",
+    "rate": 10,
+    "symptom": "overdoses"
+  },
+  {
+    "name": "Narcan Nasal Spray",
+    "rate": 10,
+    "symptom": "opioid overdose"
+  },
+  {
+    "name": "Nardil",
+    "rate": 8.5,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Nardil",
+    "rate": 8.5,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Nardil",
+    "rate": 8.5,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Nardil",
+    "rate": 8.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Nardil",
+    "rate": 8.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Nebivolol",
+    "rate": 6.1,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Nebivolol",
+    "rate": 6.1,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Nebivolol",
+    "rate": 6.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Nebivolol",
+    "rate": 6.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Nebivolol",
+    "rate": 6.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Neomycin",
+    "rate": 1,
+    "symptom": "hepatic coma"
+  },
+  {
+    "name": "Neomycin",
+    "rate": 1,
+    "symptom": "ulcerative colitis"
+  },
+  {
+    "name": "Neomycin",
+    "rate": 1,
+    "symptom": "crohn's disease"
+  },
+  {
+    "name": "Neomycin",
+    "rate": 1,
+    "symptom": "inflammatory bowel disease"
+  },
+  {
+    "name": "Neomycin",
+    "rate": 1,
+    "symptom": "colitis"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "neuropathic pain (nerve pain)"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "copd"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Neurontin",
+    "rate": 7.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Nexium",
+    "rate": 7,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Nexium",
+    "rate": 7,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Nexium",
+    "rate": 7,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Nexium",
+    "rate": 7,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Nexium",
+    "rate": 7,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Niacin",
+    "rate": 7.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Nicotine",
+    "rate": 8,
+    "symptom": "smoking"
+  },
+  {
+    "name": "Nifedipine",
+    "rate": 5.4,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Nitrofurantoin",
+    "rate": 4.4,
+    "symptom": "urinary tract infections"
+  },
+  {
+    "name": "Nitroglycerin",
+    "rate": 7.5,
+    "symptom": "chronic stable angina"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "angina"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "erectile dysfunction"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "viagra"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "cialis"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "levitra"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "stendra"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "staxyn"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "avanafil"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "vardenafil"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Nitrostat",
+    "rate": 9,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Norco",
+    "rate": 7.1,
+    "symptom": "pain"
+  },
+  {
+    "name": "Norepinephrine",
+    "rate": 8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Norethindrone",
+    "rate": 5,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Norethindrone",
+    "rate": 5,
+    "symptom": "birth control pill"
+  },
+  {
+    "name": "Norethindrone",
+    "rate": 5,
+    "symptom": "amenorrhea"
+  },
+  {
+    "name": "Norethindrone",
+    "rate": 5,
+    "symptom": "abnormal uterine bleeding"
+  },
+  {
+    "name": "Norethindrone",
+    "rate": 5,
+    "symptom": "uterine cancer"
+  },
+  {
+    "name": "Norflex",
+    "rate": 7.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Norflex",
+    "rate": 7.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "depression"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Nortriptyline",
+    "rate": 7.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Norvasc",
+    "rate": 4.7,
+    "symptom": "(angina)"
+  },
+  {
+    "name": "Norvasc",
+    "rate": 4.7,
+    "symptom": "coronary artery disease"
+  },
+  {
+    "name": "Norvir",
+    "rate": 1,
+    "symptom": "acquired immunodeficiency syndrome (aids)"
+  },
+  {
+    "name": "Norvir",
+    "rate": 1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Norvir",
+    "rate": 1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Nystatin",
+    "rate": 5.1,
+    "symptom": "oral candidiasis"
+  },
+  {
+    "name": "Nystatin",
+    "rate": 5.1,
+    "symptom": "candidiasis"
+  },
+  {
+    "name": "Octreotide",
+    "rate": 7.4,
+    "symptom": "acromegaly"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "pelvic inflammatory disease"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "gonorrhea"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "headache"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Ofloxacin",
+    "rate": 5.5,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Ofloxacin ophthalmic",
+    "rate": 5.2,
+    "symptom": "bacterial conjunctivitis"
+  },
+  {
+    "name": "Ofloxacin otic",
+    "rate": 1,
+    "symptom": "otitis media"
+  },
+  {
+    "name": "Ofloxacin otic",
+    "rate": 1,
+    "symptom": "pregnancy category"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "fluoxetine"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "prozac"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "bipolar i disorder"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Olanzapine",
+    "rate": 6.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Olmesartan",
+    "rate": 6.6,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Olmesartan",
+    "rate": 6.6,
+    "symptom": "diuretics"
+  },
+  {
+    "name": "Olmesartan",
+    "rate": 6.6,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Olmesartan",
+    "rate": 6.6,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Omega-3 polyunsaturated fatty acids",
+    "rate": 6.1,
+    "symptom": "triglyceride"
+  },
+  {
+    "name": "Omeprazole",
+    "rate": 5.9,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Omeprazole",
+    "rate": 5.9,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Omeprazole",
+    "rate": 5.9,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Omnicef",
+    "rate": 5.9,
+    "symptom": "bacteria infections"
+  },
+  {
+    "name": "Ondansetron",
+    "rate": 7.9,
+    "symptom": "chemotherapy"
+  },
+  {
+    "name": "Ondansetron",
+    "rate": 7.9,
+    "symptom": "radiation"
+  },
+  {
+    "name": "Orphenadrine",
+    "rate": 6.9,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Orphenadrine",
+    "rate": 6.9,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "coronary artery disease"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "vaginal bleeding"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "hepatitis c"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "birth control pills"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "combination birth control pills"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "sexually transmitted diseases"
+  },
+  {
+    "name": "Ortho Tri-Cyclen",
+    "rate": 5.8,
+    "symptom": "hiv"
+  },
+  {
+    "name": "Oseltamivir",
+    "rate": 6,
+    "symptom": "common cold"
+  },
+  {
+    "name": "Oseltamivir",
+    "rate": 6,
+    "symptom": "fever"
+  },
+  {
+    "name": "Oseltamivir",
+    "rate": 6,
+    "symptom": "sore throat"
+  },
+  {
+    "name": "Oxacillin",
+    "rate": "",
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Oxcarbazepine",
+    "rate": 7.7,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Oxybutynin",
+    "rate": 6.7,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Oxybutynin Chloride",
+    "rate": 6.7,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Oxytocin",
+    "rate": 4.6,
+    "symptom": "miscarriage"
+  },
+  {
+    "name": "Pantoprazole",
+    "rate": 5.7,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Pantoprazole",
+    "rate": 5.7,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Pantoprazole",
+    "rate": 5.7,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "depression"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "advil"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Paroxetine",
+    "rate": 7.1,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "depression"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "advil"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "celebrex"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Paxil",
+    "rate": 7,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Pepcid",
+    "rate": 6.6,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Pepcid",
+    "rate": 6.6,
+    "symptom": "gaviscon"
+  },
+  {
+    "name": "Pepcid",
+    "rate": 6.6,
+    "symptom": "milk of magnesia"
+  },
+  {
+    "name": "Pepcid",
+    "rate": 6.6,
+    "symptom": "rolaids"
+  },
+  {
+    "name": "Phenergan",
+    "rate": 7.8,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "cimetidine"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "omeprazole"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "st. john's wort"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "folic acid"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Phenytoin",
+    "rate": 7.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Pioglitazone",
+    "rate": 5.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "systemic lupus erythematosus"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "tamoxifen"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "kaopectate"
+  },
+  {
+    "name": "Plaquenil",
+    "rate": 6.7,
+    "symptom": "kaolin"
+  },
+  {
+    "name": "Polyethylene glycol 3350",
+    "rate": 7.4,
+    "symptom": "constipation"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "stroke"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "angina"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "stomach ulcer"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "unstable angina"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "thrombolytics"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "percutaneous coronary intervention"
+  },
+  {
+    "name": "Plavix",
+    "rate": 8.1,
+    "symptom": "prevention of atherothrombotic events"
+  },
+  {
+    "name": "Potassium Chloride",
+    "rate": 6.4,
+    "symptom": "low blood levels of potassium (hypokalemia)"
+  },
+  {
+    "name": "Pradaxa",
+    "rate": 7.1,
+    "symptom": "atrial fibrillation"
+  },
+  {
+    "name": "Pradaxa",
+    "rate": 7.1,
+    "symptom": "back pain"
+  },
+  {
+    "name": "Pradaxa",
+    "rate": 7.1,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Pramipexole",
+    "rate": 6.9,
+    "symptom": "restless legs syndrome"
+  },
+  {
+    "name": "Pramipexole",
+    "rate": 6.9,
+    "symptom": "levodopa"
+  },
+  {
+    "name": "Pravachol",
+    "rate": 6.1,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Pravastatin",
+    "rate": 3.9,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Prazosin",
+    "rate": 7.1,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Pregabalin",
+    "rate": 6.8,
+    "symptom": "fibromyalgia"
+  },
+  {
+    "name": "Pregabalin",
+    "rate": 6.8,
+    "symptom": "herpes zoster"
+  },
+  {
+    "name": "Pregabalin",
+    "rate": 6.8,
+    "symptom": "neuralgia"
+  },
+  {
+    "name": "Pregabalin",
+    "rate": 6.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Pregabalin",
+    "rate": 6.8,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Prevacid",
+    "rate": 8.5,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Prevacid",
+    "rate": 8.5,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Prevacid",
+    "rate": 8.5,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Prevacid",
+    "rate": 8.5,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Prilosec",
+    "rate": 7.1,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Prilosec",
+    "rate": 7.1,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Prilosec",
+    "rate": 7.1,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Primidone",
+    "rate": 5.9,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Primidone",
+    "rate": 5.9,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Primidone",
+    "rate": 5.9,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Procardia",
+    "rate": 7.7,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Prochlorperazine",
+    "rate": 3,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Promethazine",
+    "rate": 7.7,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Promethazine",
+    "rate": 7.7,
+    "symptom": "hives"
+  },
+  {
+    "name": "Proscar",
+    "rate": 4.7,
+    "symptom": "bph"
+  },
+  {
+    "name": "Protonix",
+    "rate": 7.5,
+    "symptom": "erosive esophagitis"
+  },
+  {
+    "name": "Protonix",
+    "rate": 7.5,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Protonix",
+    "rate": 7.5,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Prozac",
+    "rate": 7.3,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Prozac",
+    "rate": 7.3,
+    "symptom": "obsessive-compulsive disorder"
+  },
+  {
+    "name": "Prozac",
+    "rate": 7.3,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Prozac",
+    "rate": 7.3,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Qbrelis",
+    "rate": "",
+    "symptom": "heart failure"
+  },
+  {
+    "name": "Qbrelis",
+    "rate": "",
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Qbrelis",
+    "rate": "",
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "malaria"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "long qt syndrome"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "myasthenia gravis"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "optic neuritis"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "antacids"
+  },
+  {
+    "name": "Qualaquin",
+    "rate": "",
+    "symptom": "antacids"
+  },
+  {
+    "name": "Questran",
+    "rate": "",
+    "symptom": "ldl"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "depression"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "dementia"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "asthma"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "malaria"
+  },
+  {
+    "name": "Quetiapine",
+    "rate": 7.2,
+    "symptom": "hiv"
+  },
+  {
+    "name": "Qdolo",
+    "rate": "",
+    "symptom": "pain"
+  },
+  {
+    "name": "Quetiapine Fumarate",
+    "rate": 7.2,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Quetiapine Fumarate",
+    "rate": 7.2,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Quibron-T/SR",
+    "rate": "",
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Quinapril",
+    "rate": 5.6,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Quinapril",
+    "rate": 5.6,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Quinapril",
+    "rate": 5.6,
+    "symptom": "angioedema"
+  },
+  {
+    "name": "Quinapril",
+    "rate": 5.6,
+    "symptom": "diuretics"
+  },
+  {
+    "name": "Quinapril Hydrochloride",
+    "rate": 5.6,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "malaria"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "hearing loss"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Quinidine",
+    "rate": 8.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "malaria"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "long qt syndrome"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "myasthenia gravis"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "optic neuritis"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Quinine",
+    "rate": 8.9,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Quinine Sulfate",
+    "rate": 8.9,
+    "symptom": "uncomplicated malaria"
+  },
+  {
+    "name": "Rabeprazole",
+    "rate": 8.5,
+    "symptom": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "Rabeprazole",
+    "rate": 8.5,
+    "symptom": "gerd"
+  },
+  {
+    "name": "Rabeprazole",
+    "rate": 8.5,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Ramelteon",
+    "rate": 4.3,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Ramelteon",
+    "rate": 4.3,
+    "symptom": "hives"
+  },
+  {
+    "name": "Ramelteon",
+    "rate": 4.3,
+    "symptom": "nausea and vomiting"
+  },
+  {
+    "name": "Ramipril",
+    "rate": 6.3,
+    "symptom": "high blood pressure (hypertension)"
+  },
+  {
+    "name": "Ramipril",
+    "rate": 6.3,
+    "symptom": "congestive heart failure"
+  },
+  {
+    "name": "Ranexa",
+    "rate": 7.4,
+    "symptom": "angina"
+  },
+  {
+    "name": "Ranitidine",
+    "rate": 7.4,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Ranolazine",
+    "rate": 7.3,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Ranolazine",
+    "rate": 7.3,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Ranolazine",
+    "rate": 7.3,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Ranolazine",
+    "rate": 7.3,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Ranolazine",
+    "rate": 7.3,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Reclast",
+    "rate": 5.5,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Reclast",
+    "rate": 5.5,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Reclast",
+    "rate": 5.5,
+    "symptom": "bone fracture"
+  },
+  {
+    "name": "Reclast",
+    "rate": 5.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Reclast",
+    "rate": 5.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Reglan",
+    "rate": 3.9,
+    "symptom": "heartburn"
+  },
+  {
+    "name": "Reglan",
+    "rate": 3.9,
+    "symptom": "reflux"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "major depressive disorder (mdd)"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "fast heart rate"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Remeron",
+    "rate": 7.3,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Renvela",
+    "rate": 5,
+    "symptom": "chronic kidney disease"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "gemfibrozil"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "antidiabetic agents"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "antidiabetic agents"
+  },
+  {
+    "name": "Repaglinide",
+    "rate": 8.3,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Requip",
+    "rate": 6,
+    "symptom": "parkinson's disease"
+  },
+  {
+    "name": "Requip",
+    "rate": 6,
+    "symptom": "restless legs syndrome"
+  },
+  {
+    "name": "Restoril",
+    "rate": 7.4,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Restoril",
+    "rate": 7.4,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Restoril",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Restoril",
+    "rate": 7.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "meningitis"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "atazanavir"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "praziquantel"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "ritonavir"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "headache"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "depression"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "tylenol"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "advil"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Rifampin",
+    "rate": 6.2,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Riluzole",
+    "rate": 8,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Riluzole",
+    "rate": 8,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Riluzole",
+    "rate": 8,
+    "symptom": "tylenol"
+  },
+  {
+    "name": "Riluzole",
+    "rate": 8,
+    "symptom": "advil"
+  },
+  {
+    "name": "Riluzole",
+    "rate": 8,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Risedronate",
+    "rate": 3.5,
+    "symptom": "paget's disease"
+  },
+  {
+    "name": "Risedronate",
+    "rate": 3.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Risedronate",
+    "rate": 3.5,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Risedronate",
+    "rate": 3.5,
+    "symptom": "laxatives"
+  },
+  {
+    "name": "Risperdal",
+    "rate": 6,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Risperdal",
+    "rate": 6,
+    "symptom": "fast heart rate"
+  },
+  {
+    "name": "Risperdal",
+    "rate": 6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Risperidone",
+    "rate": 5.6,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Risperidone",
+    "rate": 5.6,
+    "symptom": "fast heart rate"
+  },
+  {
+    "name": "Risperidone",
+    "rate": 5.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Rivastigmine",
+    "rate": 5.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Rivastigmine",
+    "rate": 5.2,
+    "symptom": "alzheimer's disease"
+  },
+  {
+    "name": "Rizatriptan",
+    "rate": 8.5,
+    "symptom": "migraine headache"
+  },
+  {
+    "name": "Robaxin",
+    "rate": 6.4,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Robaxin",
+    "rate": 6.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Robaxin",
+    "rate": 6.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Rocephin",
+    "rate": 8.6,
+    "symptom": "pneumonia"
+  },
+  {
+    "name": "Rocephin",
+    "rate": 8.6,
+    "symptom": "meningitis"
+  },
+  {
+    "name": "Rocephin",
+    "rate": 8.6,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Rocephin",
+    "rate": 8.6,
+    "symptom": "antibiotics"
+  },
+  {
+    "name": "Ropinirole",
+    "rate": 6.5,
+    "symptom": "restless legs syndrome"
+  },
+  {
+    "name": "Ropinirole",
+    "rate": 6.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Ropinirole",
+    "rate": 6.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Rosuvastatin",
+    "rate": 5.5,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Rosuvastatin",
+    "rate": 5.5,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Scopolamine",
+    "rate": 5.7,
+    "symptom": "motion sickness"
+  },
+  {
+    "name": "Scopolamine",
+    "rate": 5.7,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "asthma"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "depression"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "malaria"
+  },
+  {
+    "name": "Rythmol",
+    "rate": 6,
+    "symptom": "hiv"
+  },
+  {
+    "name": "Seroquel",
+    "rate": 7,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Sensipar",
+    "rate": 5.7,
+    "symptom": "hyperparathyroidism"
+  },
+  {
+    "name": "Sertraline",
+    "rate": 7.3,
+    "symptom": "depression"
+  },
+  {
+    "name": "Sertraline",
+    "rate": 7.3,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Sevelamer",
+    "rate": 5.8,
+    "symptom": "chronic kidney disease"
+  },
+  {
+    "name": "Sevelamer",
+    "rate": 5.8,
+    "symptom": "calcium acetate"
+  },
+  {
+    "name": "Sevelamer",
+    "rate": 5.8,
+    "symptom": "hyperphosphatemia"
+  },
+  {
+    "name": "Sevelamer",
+    "rate": 5.8,
+    "symptom": "phosphate binders"
+  },
+  {
+    "name": "Sildenafil",
+    "rate": 8.1,
+    "symptom": "erectile dysfunction"
+  },
+  {
+    "name": "Sildenafil",
+    "rate": 8.1,
+    "symptom": "riociguat"
+  },
+  {
+    "name": "Sildenafil",
+    "rate": 8.1,
+    "symptom": "adempas"
+  },
+  {
+    "name": "Sildenafil",
+    "rate": 8.1,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Simvastatin",
+    "rate": 5,
+    "symptom": "cholesterol"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "poisoning"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Sinemet",
+    "rate": 7.7,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "nonsteroidal anti-inflammatory drugs"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "ibuprofen"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "advil"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "motrin"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "naproxen"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "celecoxib"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "diclofenac"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "indomethacin"
+  },
+  {
+    "name": "Singulair",
+    "rate": 6.6,
+    "symptom": "meloxicam"
+  },
+  {
+    "name": "Sitagliptin",
+    "rate": 5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Sitagliptin",
+    "rate": 5,
+    "symptom": "insulin"
+  },
+  {
+    "name": "Sitagliptin",
+    "rate": 5,
+    "symptom": "type 2 diabetes"
+  },
+  {
+    "name": "Skelaxin",
+    "rate": 7.7,
+    "symptom": "pain"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "rate": 10,
+    "symptom": "heartburn"
+  },
+  {
+    "name": "Sodium bicarbonate",
+    "rate": 10,
+    "symptom": "indigestion"
+  },
+  {
+    "name": "Sodium chloride",
+    "rate": "",
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Solifenacin",
+    "rate": 5.5,
+    "symptom": "urinary incontinence"
+  },
+  {
+    "name": "Solifenacin",
+    "rate": 5.5,
+    "symptom": "urinary frequency"
+  },
+  {
+    "name": "Solifenacin",
+    "rate": 5.5,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Solifenacin",
+    "rate": 5.5,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Soma",
+    "rate": 9.2,
+    "symptom": "skeletal muscle conditions"
+  },
+  {
+    "name": "Soma",
+    "rate": 9.2,
+    "symptom": "pain"
+  },
+  {
+    "name": "Soma",
+    "rate": 9.2,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Soma",
+    "rate": 9.2,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Soma",
+    "rate": 9.2,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Sonata",
+    "rate": 5.7,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Sonata",
+    "rate": 5.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Sonata",
+    "rate": 5.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "coronary artery disease"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "vaginal bleeding"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "birth control pills"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "spermicide"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "sexually transmitted diseases"
+  },
+  {
+    "name": "Sprintec",
+    "rate": 5.6,
+    "symptom": "hiv"
+  },
+  {
+    "name": "Strattera",
+    "rate": 5.4,
+    "symptom": "attention deficit hyperactivity disorder (adhd)"
+  },
+  {
+    "name": "Strattera",
+    "rate": 5.4,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Sucralfate",
+    "rate": 6.6,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Sucralfate",
+    "rate": 6.6,
+    "symptom": "antacids"
+  },
+  {
+    "name": "Sulfacetamide ophthalmic",
+    "rate": 8.2,
+    "symptom": "eye infections"
+  },
+  {
+    "name": "Sulfamethoxazole and trimethoprim",
+    "rate": 4.9,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Sulfasalazine",
+    "rate": 5.6,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Sulfasalazine",
+    "rate": 5.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Sumatriptan",
+    "rate": 7.8,
+    "symptom": "headache"
+  },
+  {
+    "name": "Synthroid",
+    "rate": 6.1,
+    "symptom": "hypothyroidism (low thyroid hormone)"
+  },
+  {
+    "name": "Synthroid",
+    "rate": 6.1,
+    "symptom": "headache"
+  },
+  {
+    "name": "Tacrolimus",
+    "rate": 8.1,
+    "symptom": "kidney transplant"
+  },
+  {
+    "name": "Tadalafil",
+    "rate": 8.4,
+    "symptom": "erectile dysfunction (impotence)"
+  },
+  {
+    "name": "Tadalafil",
+    "rate": 8.4,
+    "symptom": "benign prostatic hypertrophy"
+  },
+  {
+    "name": "Tadalafil",
+    "rate": 8.4,
+    "symptom": "pulmonary arterial hypertension"
+  },
+  {
+    "name": "Tamsulosin",
+    "rate": 5.9,
+    "symptom": "benign prostatic hyperplasia"
+  },
+  {
+    "name": "Tagamet",
+    "rate": 8,
+    "symptom": "duodenal ulcer"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "seizures"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "tonic-clonic"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "furazolidone"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Tegretol",
+    "rate": 6.8,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Telmisartan",
+    "rate": 5.7,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Telmisartan",
+    "rate": 5.7,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Telmisartan",
+    "rate": 5.7,
+    "symptom": "kidney failure"
+  },
+  {
+    "name": "Temazepam",
+    "rate": 6.7,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Temazepam",
+    "rate": 6.7,
+    "symptom": "birth control"
+  },
+  {
+    "name": "Temazepam",
+    "rate": 6.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Temazepam",
+    "rate": 6.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Terazosin",
+    "rate": 7.1,
+    "symptom": "hypertension"
+  },
+  {
+    "name": "Terbinafine",
+    "rate": 6.6,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Terbinafine",
+    "rate": 6.6,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Terbinafine",
+    "rate": 6.6,
+    "symptom": "jaundice"
+  },
+  {
+    "name": "Terbinafine",
+    "rate": 6.6,
+    "symptom": "headache"
+  },
+  {
+    "name": "Terbinafine",
+    "rate": 6.6,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Tessalon",
+    "rate": 5.9,
+    "symptom": "cough"
+  },
+  {
+    "name": "Theophylline",
+    "rate": 8.6,
+    "symptom": "st. john's wort"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "vitamin b1 deficiency"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "beriberi"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "multivitamin"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "neuritis"
+  },
+  {
+    "name": "Thiamine",
+    "rate": 10,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Thorazine",
+    "rate": 7.1,
+    "symptom": "psychotic disorders"
+  },
+  {
+    "name": "Thorazine",
+    "rate": 7.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Tirosint",
+    "rate": 6.8,
+    "symptom": "thyroid cancer"
+  },
+  {
+    "name": "Tizanidine",
+    "rate": 6.4,
+    "symptom": "muscle tone"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "urinary frequency"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "myasthenia gravis"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "long qt syndrome"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "fast heartbeat"
+  },
+  {
+    "name": "Tolterodine",
+    "rate": 6.8,
+    "symptom": "urinary incontinence"
+  },
+  {
+    "name": "Topamax",
+    "rate": 6.4,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Topamax",
+    "rate": 6.4,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Topamax",
+    "rate": 6.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Topamax",
+    "rate": 6.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Topiramate",
+    "rate": 6.4,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Topiramate",
+    "rate": 6.4,
+    "symptom": "headache"
+  },
+  {
+    "name": "Topiramate",
+    "rate": 6.4,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Topiramate",
+    "rate": 6.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Topiramate",
+    "rate": 6.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Toradol",
+    "rate": 7,
+    "symptom": "pain"
+  },
+  {
+    "name": "Torsemide",
+    "rate": 5.4,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Torsemide",
+    "rate": 5.4,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Torsemide",
+    "rate": 5.4,
+    "symptom": "dehydration"
+  },
+  {
+    "name": "Torsemide",
+    "rate": 5.4,
+    "symptom": "low blood pressure"
+  },
+  {
+    "name": "Tramadol",
+    "rate": 6.8,
+    "symptom": "severe pain"
+  },
+  {
+    "name": "Toviaz",
+    "rate": 5.2,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Toviaz",
+    "rate": 5.2,
+    "symptom": "urinary frequency"
+  },
+  {
+    "name": "Toviaz",
+    "rate": 5.2,
+    "symptom": "incontinence"
+  },
+  {
+    "name": "Toviaz",
+    "rate": 5.2,
+    "symptom": "sweating"
+  },
+  {
+    "name": "Trazodone",
+    "rate": 6.5,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Trazodone",
+    "rate": 6.5,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Trazodone",
+    "rate": 6.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Tretinoin",
+    "rate": 9,
+    "symptom": "leukemia"
+  },
+  {
+    "name": "Tretinoin",
+    "rate": 9,
+    "symptom": "headache"
+  },
+  {
+    "name": "Tretinoin",
+    "rate": 9,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "acquired immunodeficiency syndrome (aids)"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "hiv infection"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "organ transplant"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "tylenol"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "advil"
+  },
+  {
+    "name": "Truvada",
+    "rate": 6.5,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Trileptal",
+    "rate": 7.7,
+    "symptom": "partial seizures"
+  },
+  {
+    "name": "Trileptal",
+    "rate": 7.7,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Trileptal",
+    "rate": 7.7,
+    "symptom": "fever"
+  },
+  {
+    "name": "Tylenol",
+    "rate": 6.7,
+    "symptom": "headache"
+  },
+  {
+    "name": "Tylenol",
+    "rate": 6.7,
+    "symptom": "arthritis"
+  },
+  {
+    "name": "Tylenol",
+    "rate": 6.7,
+    "symptom": "fevers"
+  },
+  {
+    "name": "Uloric",
+    "rate": 8.3,
+    "symptom": "gout"
+  },
+  {
+    "name": "Uloric",
+    "rate": 8.3,
+    "symptom": "azathioprine"
+  },
+  {
+    "name": "Uloric",
+    "rate": 8.3,
+    "symptom": "mercaptopurine"
+  },
+  {
+    "name": "Uloric",
+    "rate": 8.3,
+    "symptom": "colchicine"
+  },
+  {
+    "name": "Uloric",
+    "rate": 8.3,
+    "symptom": "rash"
+  },
+  {
+    "name": "Ultracet",
+    "rate": 8,
+    "symptom": "moderate to severe pain"
+  },
+  {
+    "name": "Ultracet",
+    "rate": 8,
+    "symptom": "acetaminophen overdose"
+  },
+  {
+    "name": "Ultracet",
+    "rate": 8,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Ultracet",
+    "rate": 8,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Ultracet",
+    "rate": 8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Ultram",
+    "rate": 6.3,
+    "symptom": "severe pain"
+  },
+  {
+    "name": "Ultravate",
+    "rate": 9.3,
+    "symptom": "plaque psoriasis"
+  },
+  {
+    "name": "Ultravate",
+    "rate": 9.3,
+    "symptom": "acne"
+  },
+  {
+    "name": "Ultravate",
+    "rate": 9.3,
+    "symptom": "impotence"
+  },
+  {
+    "name": "Unasyn",
+    "rate": 8,
+    "symptom": "bacteria infections"
+  },
+  {
+    "name": "Urecholine",
+    "rate": 9,
+    "symptom": "drooling"
+  },
+  {
+    "name": "Urecholine",
+    "rate": 9,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Urecholine",
+    "rate": 9,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Unithroid",
+    "rate": 4.4,
+    "symptom": "hypothyroidism"
+  },
+  {
+    "name": "Urispas",
+    "rate": 6.5,
+    "symptom": "overactive bladder"
+  },
+  {
+    "name": "Urocit-K",
+    "rate": 9,
+    "symptom": "kidney stone"
+  },
+  {
+    "name": "Uroxatral",
+    "rate": 6.1,
+    "symptom": "pain"
+  },
+  {
+    "name": "Urso",
+    "rate": 10,
+    "symptom": "cholestyramine"
+  },
+  {
+    "name": "Urso",
+    "rate": 10,
+    "symptom": "colestipol"
+  },
+  {
+    "name": "Ursodiol",
+    "rate": 8.5,
+    "symptom": "cholestyramine"
+  },
+  {
+    "name": "Ursodiol",
+    "rate": 8.5,
+    "symptom": "colestipol"
+  },
+  {
+    "name": "Valacyclovir",
+    "rate": 8.7,
+    "symptom": "genital herpes"
+  },
+  {
+    "name": "Valacyclovir",
+    "rate": 8.7,
+    "symptom": "cold sores"
+  },
+  {
+    "name": "Valacyclovir",
+    "rate": 8.7,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Valium",
+    "rate": 8.8,
+    "symptom": "alcohol withdrawal"
+  },
+  {
+    "name": "Valium",
+    "rate": 8.8,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Valium",
+    "rate": 8.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Valium",
+    "rate": 8.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "depression"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Valproic acid",
+    "rate": 6.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Valsartan",
+    "rate": 5.7,
+    "symptom": "heart failure"
+  },
+  {
+    "name": "Valsartan",
+    "rate": 5.7,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Valsartan",
+    "rate": 5.7,
+    "symptom": "aliskiren"
+  },
+  {
+    "name": "Valtrex",
+    "rate": 8.9,
+    "symptom": "genital herpes"
+  },
+  {
+    "name": "Valtrex",
+    "rate": 8.9,
+    "symptom": "cold sores"
+  },
+  {
+    "name": "Valtrex",
+    "rate": 8.9,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Vancomycin",
+    "rate": 6.8,
+    "symptom": "diarrhea"
+  },
+  {
+    "name": "Vasotec",
+    "rate": 3.8,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Vasotec",
+    "rate": 3.8,
+    "symptom": "angioedema"
+  },
+  {
+    "name": "Vasotec",
+    "rate": 3.8,
+    "symptom": "diuretics"
+  },
+  {
+    "name": "Verapamil",
+    "rate": 8,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Verapamil",
+    "rate": 8,
+    "symptom": "angina"
+  },
+  {
+    "name": "Venlafaxine",
+    "rate": 6.5,
+    "symptom": "major depressive disorder"
+  },
+  {
+    "name": "Venlafaxine",
+    "rate": 6.5,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Venlafaxine",
+    "rate": 6.5,
+    "symptom": "panic disorder"
+  },
+  {
+    "name": "Venlafaxine",
+    "rate": 6.5,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "glaucoma"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "valium"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "xanax"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "ativan"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "grapefruit"
+  },
+  {
+    "name": "Versed",
+    "rate": 4.6,
+    "symptom": "grapefruit juice"
+  },
+  {
+    "name": "VESIcare",
+    "rate": 5.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "VESIcare",
+    "rate": 5.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Viagra",
+    "rate": 8.5,
+    "symptom": "erectile dysfunction"
+  },
+  {
+    "name": "Vicodin",
+    "rate": 8.1,
+    "symptom": "pain"
+  },
+  {
+    "name": "Vicodin",
+    "rate": 8.1,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "proton pump inhibitor"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "nexium"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "aleve"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "naprosyn"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Vimovo",
+    "rate": 6.1,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Vimpat",
+    "rate": 7.2,
+    "symptom": "partial-onset seizures"
+  },
+  {
+    "name": "Vimpat",
+    "rate": 7.2,
+    "symptom": "epilepsy"
+  },
+  {
+    "name": "Vimpat",
+    "rate": 7.2,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Vistaril",
+    "rate": 5.7,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Vistaril",
+    "rate": 5.7,
+    "symptom": "tension"
+  },
+  {
+    "name": "Vivitrol",
+    "rate": 8,
+    "symptom": "alcoholism"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "osteoarthritis"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "ankylosing spondylitis"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "asthma"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "aspirin"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Voltaren",
+    "rate": 7.8,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Warfarin",
+    "rate": 8.2,
+    "symptom": "stroke"
+  },
+  {
+    "name": "Warfarin",
+    "rate": 8.2,
+    "symptom": "heart attack"
+  },
+  {
+    "name": "Vytorin",
+    "rate": 7.5,
+    "symptom": "statins"
+  },
+  {
+    "name": "Welchol",
+    "rate": 7.9,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Warfarin Sodium",
+    "rate": 8.2,
+    "symptom": "dvt"
+  },
+  {
+    "name": "Warfarin Sodium",
+    "rate": 8.2,
+    "symptom": "pe"
+  },
+  {
+    "name": "Wellbutrin",
+    "rate": 6.9,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Wellbutrin SR",
+    "rate": 7.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Wellbutrin XL",
+    "rate": 7.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Xalatan",
+    "rate": 8.4,
+    "symptom": "glaucoma"
+  },
+  {
+    "name": "Xanax",
+    "rate": 8.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Xanax",
+    "rate": 8.8,
+    "symptom": "depression"
+  },
+  {
+    "name": "Xanax",
+    "rate": 8.8,
+    "symptom": "loss of balance"
+  },
+  {
+    "name": "Xanax",
+    "rate": 8.8,
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Xanax XR",
+    "rate": 8.6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Xanax XR",
+    "rate": 8.6,
+    "symptom": "depression"
+  },
+  {
+    "name": "Xaracoll",
+    "rate": "",
+    "symptom": "inguinal hernia"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "psoriasis"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "rheumatoid arthritis"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "alcoholism"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "liver disease"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "coughing up blood"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "shingles"
+  },
+  {
+    "name": "Xatmep",
+    "rate": "",
+    "symptom": "influenza"
+  },
+  {
+    "name": "Xeloda",
+    "rate": 7.3,
+    "symptom": "colon cancer,"
+  },
+  {
+    "name": "Xeloda",
+    "rate": 7.3,
+    "symptom": "breast"
+  },
+  {
+    "name": "Xelpros",
+    "rate": "",
+    "symptom": "glaucoma"
+  },
+  {
+    "name": "Xenazine",
+    "rate": "",
+    "symptom": "huntington's chorea"
+  },
+  {
+    "name": "Ximino",
+    "rate": "",
+    "symptom": "syphilis"
+  },
+  {
+    "name": "Ximino",
+    "rate": "",
+    "symptom": "dizziness"
+  },
+  {
+    "name": "Ximino",
+    "rate": "",
+    "symptom": "nausea"
+  },
+  {
+    "name": "Ximino",
+    "rate": "",
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Xopenex",
+    "rate": 8.8,
+    "symptom": "bronchospasm"
+  },
+  {
+    "name": "Xopenex HFA",
+    "rate": 9.5,
+    "symptom": "xopenex"
+  },
+  {
+    "name": "Xopenex HFA",
+    "rate": 9.5,
+    "symptom": "asthma"
+  },
+  {
+    "name": "Xylocaine",
+    "rate": 6,
+    "symptom": "hemodynamics"
+  },
+  {
+    "name": "Xyzal",
+    "rate": 5.6,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Yasmin",
+    "rate": 5.6,
+    "symptom": "prevent ovulation"
+  },
+  {
+    "name": "Yasmin 28",
+    "rate": 5.6,
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Yaz",
+    "rate": 5.9,
+    "symptom": "contraception"
+  },
+  {
+    "name": "Yaz",
+    "rate": 5.9,
+    "symptom": "moderate acne"
+  },
+  {
+    "name": "Zaditor",
+    "rate": 5.3,
+    "symptom": "allergy"
+  },
+  {
+    "name": "Zaleplon",
+    "rate": 5.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zaleplon",
+    "rate": 5.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zanaflex",
+    "rate": 7.9,
+    "symptom": "injury"
+  },
+  {
+    "name": "Zantac",
+    "rate": 8.1,
+    "symptom": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "Zestril",
+    "rate": 6.7,
+    "symptom": "high blood pressure"
+  },
+  {
+    "name": "Zetia",
+    "rate": 5,
+    "symptom": "high cholesterol"
+  },
+  {
+    "name": "Zidovudine",
+    "rate": "",
+    "symptom": "medical disclaimer"
+  },
+  {
+    "name": "Ziprasidone",
+    "rate": 5.8,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Ziprasidone",
+    "rate": 5.8,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Ziprasidone",
+    "rate": 5.8,
+    "symptom": "depression"
+  },
+  {
+    "name": "Ziprasidone",
+    "rate": 5.8,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Zithromax",
+    "rate": 7.2,
+    "symptom": "bacteria infections"
+  },
+  {
+    "name": "Zocor",
+    "rate": 5.5,
+    "symptom": "cholesterol"
+  },
+  {
+    "name": "Zofran",
+    "rate": 8.1,
+    "symptom": "chemotherapy"
+  },
+  {
+    "name": "Zofran",
+    "rate": 8.1,
+    "symptom": "radiation"
+  },
+  {
+    "name": "Zoledronic acid",
+    "rate": 5.2,
+    "symptom": "osteoporosis"
+  },
+  {
+    "name": "Zoledronic acid",
+    "rate": 5.2,
+    "symptom": "menopause"
+  },
+  {
+    "name": "Zoledronic acid",
+    "rate": 5.2,
+    "symptom": "bone fracture"
+  },
+  {
+    "name": "Zoledronic acid",
+    "rate": 5.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zoledronic acid",
+    "rate": 5.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "linezolid"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Zolmitriptan",
+    "rate": 7.6,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Zolpidem",
+    "rate": 7.1,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Zolpidem",
+    "rate": 7.1,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Zolpidem",
+    "rate": 7.1,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Zolpidem",
+    "rate": 7.1,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zolpidem",
+    "rate": 7.1,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zoloft",
+    "rate": 7.3,
+    "symptom": "obsessive-compulsive disorder"
+  },
+  {
+    "name": "Zoloft",
+    "rate": 7.3,
+    "symptom": "post-traumatic stress disorder (ptsd)"
+  },
+  {
+    "name": "Zoloft",
+    "rate": 7.3,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Zolpidem Tartrate",
+    "rate": 7.1,
+    "symptom": "insomnia"
+  },
+  {
+    "name": "Zometa",
+    "rate": 5.4,
+    "symptom": "hypercalcemia"
+  },
+  {
+    "name": "Zometa",
+    "rate": 5.4,
+    "symptom": "multiple myeloma"
+  },
+  {
+    "name": "Zometa",
+    "rate": 5.4,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zometa",
+    "rate": 5.4,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zomig",
+    "rate": 7,
+    "symptom": "migraine"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "partial seizures"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "epilepsy"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "eye pain"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zonegran",
+    "rate": 7.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zonisamide",
+    "rate": 6,
+    "symptom": "slow heart rate"
+  },
+  {
+    "name": "Zonisamide",
+    "rate": 6,
+    "symptom": "anxiety"
+  },
+  {
+    "name": "Zonisamide",
+    "rate": 6,
+    "symptom": "panic attacks"
+  },
+  {
+    "name": "Zonisamide",
+    "rate": 6,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zonisamide",
+    "rate": 6,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zorvolex",
+    "rate": 8.3,
+    "symptom": "cambia"
+  },
+  {
+    "name": "Zorvolex",
+    "rate": 8.3,
+    "symptom": "migraine headache"
+  },
+  {
+    "name": "Zorvolex",
+    "rate": 8.3,
+    "symptom": "headache"
+  },
+  {
+    "name": "Zorvolex",
+    "rate": 8.3,
+    "symptom": "nsaids"
+  },
+  {
+    "name": "Zorvolex",
+    "rate": 8.3,
+    "symptom": "numbness"
+  },
+  {
+    "name": "Zosyn",
+    "rate": 8.7,
+    "symptom": "pneumonia"
+  },
+  {
+    "name": "Zosyn",
+    "rate": 8.7,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zosyn",
+    "rate": 8.7,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zovirax",
+    "rate": 8.6,
+    "symptom": "cold sores"
+  },
+  {
+    "name": "Zovirax",
+    "rate": 8.6,
+    "symptom": "shingles"
+  },
+  {
+    "name": "Zovirax",
+    "rate": 8.6,
+    "symptom": "chickenpox"
+  },
+  {
+    "name": "Zovirax",
+    "rate": 8.6,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zovirax",
+    "rate": 8.6,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "ZTlido",
+    "rate": "",
+    "symptom": "pain"
+  },
+  {
+    "name": "Zyloprim",
+    "rate": 9,
+    "symptom": "kidney stones"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "schizophrenia"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "bipolar disorder"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "skin rash"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zyprexa",
+    "rate": 6.3,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zyrtec",
+    "rate": 6.2,
+    "symptom": "agitation"
+  },
+  {
+    "name": "Zyrtec",
+    "rate": 6.2,
+    "symptom": "nausea"
+  },
+  {
+    "name": "Zyrtec",
+    "rate": 6.2,
+    "symptom": "vomiting"
+  },
+  {
+    "name": "Zyrtec",
+    "rate": 6.2,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zyrtec",
+    "rate": 6.2,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "Zytiga",
+    "rate": 8.9,
+    "symptom": "prednisone"
+  },
+  {
+    "name": "Zytiga",
+    "rate": 8.9,
+    "symptom": "methylprednisolone"
+  },
+  {
+    "name": "Zytiga",
+    "rate": 8.9,
+    "symptom": "prostate cancer"
+  },
+  {
+    "name": "Zytiga",
+    "rate": 8.9,
+    "symptom": "st. john's wort"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "pneumonia"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "mao inhibitor"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "isocarboxazid"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "methylene blue"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "phenelzine"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "rasagiline"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "selegiline"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "tranylcypromine"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "vitamins"
+  },
+  {
+    "name": "Zyvox",
+    "rate": 8.8,
+    "symptom": "herbal products"
+  },
+  {
+    "name": "3tc",
+    "rate": 9,
+    "symptom": "allergy"
+  },
+  {
+    "name": "3tc",
+    "rate": 9,
+    "symptom": "pediatric"
+  },
+  {
+    "name": "8-Mop",
+    "rate": "",
+    "symptom": "psoriasis"
+  }
+]

@@ -5,7 +5,7 @@ import { Radio } from 'antd';
 import { Table, Tag, Space } from 'antd';
 import { Card, Col, Row } from 'antd';
 import Chart from "react-google-charts";
-import data from '../data/numDrugCompany.json'
+import data from '../data/drugsChart.json'
 
 const { TabPane } = Tabs;
 const { Search } = Input;
@@ -15,75 +15,74 @@ function callback(key) {
 }
 
 const Drugs = () => {
-    const arrData = []
-    arrData.push(['Company', 'Rate'],)
+    const arrData2 = []
+    arrData2.push(['name', 'rate', 'symptom'],)
     // Object.keys(data).forEach(key => arrData.push([key, data[key]]))
     data.map((d)=>{
-        // console.log(d)
-        arrData.push([d['manufacturer'],d['rate']])
+        arrData2.push([d['name'], d['symptom'],d['rate']])
     })
 
-    const arrData2 = []
-    arrData2.push(['Company', 'Rate'],)
-    // Object.keys(data).forEach(key => arrData.push([key, data[key]]))
-    data.map((d)=>{
-        // console.log(d)
-        arrData2.push([d['manufacturer'],d['numOfDrugs']])
-    })
-    
-    console.log(arrData)
+    console.log(arrData2)
+
     return(
-        <div style={{ padding: '10px', paddingLeft: '20px'}}>
+        <div style={{ padding: '50px', paddingLeft: '50px'}}>
             <Chart
-                width={'1000px'}
-                height={'1000px'}
-                chartType="BarChart"
+                width={'900px'}
+                height={'700px'}
+                chartType="PieChart"
                 loader={<div>Loading Chart</div>}
-                data={arrData}
+                data={
+                    arrData2
+                }
                 options={{
-                    hAxis: { minValue: 0, maxValue: 10 },
-                    chartArea: { top: 0, right: 0, bottom: 0 },
+                    legend: 'none',
+                    chartArea: { left: 10, top: 10, right: 0, bottom: 10 },
+                    pieSliceText: 'label',
                     vAxis: {
-                        title: 'manufacturer',
+                        title: 'name',
                       },
-                }}
-                rootProps={{ 'data-testid': '4' }}
+                  }}
+                rootProps={{ 'data-testid': '1' }}
+                chartWrapperParams={{ view: { columns: [0, 2] } }}
                 chartPackages={['corechart', 'controls']}
                 render={({ renderControl, renderChart }) => {
                     return (
-                    <div style={{ top:'100px', display: 'flex' }}>
-                        <div style={{ height: '10%' }}>{renderControl(() => true)}</div>
-                        <div style={{ height: '90%' }}>{renderChart()}</div>
-                    </div>
+                      <div style={{ display: 'flex' }}>
+                        <div style={{ height: '10%', width: '30%', paddingTop: 10 }}>
+                            <div
+                                style={{
+                                height: 100,
+                                width:400,
+                                border: 'solid 1px #ccc',
+                                padding: 10,
+                                marginTop: 0,
+                                }}
+                            >
+                                {renderControl(
+                                ({ controlProp }) => controlProp.controlID === 'select-symptom',
+                                )}
+                            </div>
+                        </div>
+                        <div style={{ top:'100px',width: '100%' }}>{renderChart()}</div>
+                      </div>
                     )
-                }}
-                
+                  }}
                 controls={[
                     {
-                    controlType: 'NumberRangeFilter',
+                    controlType: 'CategoryFilter',
+                    controlID: 'select-symptom',
                     options: {
                         filterColumnIndex: 1,
-                        minValue: 0,
-                        maxValue: 10,
+                        ui: {
+                        labelStacking: 'vertical',
+                        label: 'Gender Selection:',
+                        allowTyping: true,
+                        allowMultiple: false,
+                        },
                     },
                     },
                 ]}
-                rootProps={{ 'data-testid': '1' }}
                 />
-            <Chart
-            chartType="PieChart"
-            width={'1000px'}
-            height={'1000px'}
-            chartType="PieChart"
-            loader={<div>Loading Chart</div>}
-            data={arrData2}
-            // spreadSheetUrl="https://docs.google.com/spreadsheets/d/1sd8DslOz8V0Do7D0UhajYmY8OwpQHKzwh2gbdIMnvvQ/edit#gid=1330700052"
-            options={{
-                title: 'Number of Medicines in Companies',
-                is3D: true,
-            }}
-            rootProps={{ 'data-testid': '1' }}
-            />
         </div>
         
     );
