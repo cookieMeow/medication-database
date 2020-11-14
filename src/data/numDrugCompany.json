@@ -1,1 +1,397 @@
-{"manufacturer": 1, "Amneal Pharmaceuticals LLC": 192, "Apotex Corp.": 170, "Dr. Reddy's Laboratories, Inc.": 149, "Lannett Company, Inc.": 93, "Teva Pharmaceuticals USA, Inc.": 344, "Zydus Pharmaceuticals (USA) Inc.": 179, "Torrent Pharmaceuticals Limited": 73, "Aurobindo Pharma Limited": 215, "Camber Pharmaceuticals, Inc.": 93, "Accord Healthcare Inc.": 77, "Ascend Laboratories LLC": 78, "Solco Healthcare U.S., LLC": 53, "AvKare, Inc.": 219, "Macleods Pharmaceuticals Limited": 121, "Exelan Pharmaceuticals, Inc.": 39, "Greenstone LLC": 58, "Lupin Pharmaceuticals, Inc.": 153, "Perrigo Company": 60, "Heritage Pharmaceuticals Inc.": 74, "Advance Pharmaceutical Inc.": 5, "Gemini Pharmaceuticals": 7, "Breckenridge Pharmaceutical, Inc.": 48, "Mylan Pharmaceuticals Inc.": 336, "Major Pharmaceuticals": 138, "Akorn, Inc.": 67, "Carlsbad Technology, Inc.": 20, "Fresenius Kabi USA, LLC": 72, "Hikma Pharmaceuticals PLC": 75, "Nivagen Pharmaceuticals, Inc.": 19, "Mallinckrodt Inc.": 9, "Par Pharmaceutical, Inc.": 95, "Sandoz Inc.": 192, "Sun Pharmaceutical Industries Inc.": 177, "Alvogen, Inc.": 29, "Bionpharma Inc.": 36, "ANI Pharmaceuticals, Inc.": 23, "Taro Pharmaceuticals USA, Inc.": 45, "Pliva": 58, "PuraCap Pharmaceutical LLC": 19, "NorthStar Rx LLC": 80, "Jubilant Cadista Pharmaceuticals Inc.": 74, "Tagi Pharma Inc.": 16, "West-Ward Pharmaceuticals": 76, "Glenmark Pharmaceuticals Inc.": 107, "Unichem Pharmaceuticals (USA), Inc.": 54, "Roxane Laboratories, Inc.": 57, "Wockhardt USA LLC": 84, "Gavis Pharmaceuticals, LLC": 16, "Mayne Pharma US": 15, "Upsher-Smith Laboratories Inc.": 32, "Epic Pharma LLC": 31, "Luitpold Pharmaceuticals, Inc.": 7, "Sunrise Pharmaceutical, Inc.": 4, "Pfizer Inc.": 62, "Leading Pharma, LLC": 11, "American Regent, Inc.": 14, "Bayshore Pharmaceuticals LLC": 8, "Nostrum Laboratories, Inc.": 17, "Prasco Laboratories": 26, "Rising Pharmaceuticals, Inc.": 46, "Baxter International Inc.": 19, "Xiromed, LLC": 10, "Tris Pharma, Inc.": 10, "KVK-Tech, Inc.": 20, "X-GEN Pharmaceuticals, Inc.": 10, "Osmotica Pharmaceuticals plc": 8, "Larken Laboratories, Inc.": 6, "Spear Pharmaceuticals": 1, "Arbor Pharmaceuticals, LLC": 1, "Synthon Pharmaceuticals Inc.": 4, "Acella Pharmaceuticals, LLC": 3, "Eli Lilly and Company": 2, "VersaPharm Incorporated": 2, "Cardinal Health": 2, "Celltrion, Inc.": 3, "Allergan plc": 2, "Fresenius Medical Care": 1, "Hospira, Inc.": 1, "ViroPharma": 1}
+[
+    {
+      "manufacturer": "Amneal Pharmaceuticals LLC",
+      "numOfDrugs": 192,
+      "rate": 6.51
+    },
+    {
+      "manufacturer": "Apotex Corp.",
+      "numOfDrugs": 170,
+      "rate": 6.44
+    },
+    {
+      "manufacturer": "Dr. Reddy's Laboratories, Inc.",
+      "numOfDrugs": 149,
+      "rate": 6.43
+    },
+    {
+      "manufacturer": "Lannett Company, Inc.",
+      "numOfDrugs": 93,
+      "rate": 6.65
+    },
+    {
+      "manufacturer": "Teva Pharmaceuticals USA, Inc.",
+      "numOfDrugs": 344,
+      "rate": 6.48
+    },
+    {
+      "manufacturer": "Zydus Pharmaceuticals (USA) Inc.",
+      "numOfDrugs": 179,
+      "rate": 6.36
+    },
+    {
+      "manufacturer": "Torrent Pharmaceuticals Limited",
+      "numOfDrugs": 73,
+      "rate": 6.55
+    },
+    {
+      "manufacturer": "Aurobindo Pharma Limited",
+      "numOfDrugs": 215,
+      "rate": 6.39
+    },
+    {
+      "manufacturer": "Camber Pharmaceuticals, Inc.",
+      "numOfDrugs": 93,
+      "rate": 6.4
+    },
+    {
+      "manufacturer": "Accord Healthcare Inc.",
+      "numOfDrugs": 77,
+      "rate": 6.69
+    },
+    {
+      "manufacturer": "Ascend Laboratories LLC",
+      "numOfDrugs": 78,
+      "rate": 6.54
+    },
+    {
+      "manufacturer": "Solco Healthcare U.S., LLC",
+      "numOfDrugs": 53,
+      "rate": 6.32
+    },
+    {
+      "manufacturer": "AvKare, Inc.",
+      "numOfDrugs": 219,
+      "rate": 6.48
+    },
+    {
+      "manufacturer": "Macleods Pharmaceuticals Limited",
+      "numOfDrugs": 121,
+      "rate": 6.42
+    },
+    {
+      "manufacturer": "Exelan Pharmaceuticals, Inc.",
+      "numOfDrugs": 39,
+      "rate": 6.47
+    },
+    {
+      "manufacturer": "Greenstone LLC",
+      "numOfDrugs": 58,
+      "rate": 6.59
+    },
+    {
+      "manufacturer": "Lupin Pharmaceuticals, Inc.",
+      "numOfDrugs": 153,
+      "rate": 6.24
+    },
+    {
+      "manufacturer": "Perrigo Company",
+      "numOfDrugs": 60,
+      "rate": 6.88
+    },
+    {
+      "manufacturer": "Heritage Pharmaceuticals Inc.",
+      "numOfDrugs": 74,
+      "rate": 6.24
+    },
+    {
+      "manufacturer": "Advance Pharmaceutical Inc.",
+      "numOfDrugs": 5,
+      "rate": 7.32
+    },
+    {
+      "manufacturer": "Gemini Pharmaceuticals",
+      "numOfDrugs": 7,
+      "rate": 7.09
+    },
+    {
+      "manufacturer": "Breckenridge Pharmaceutical, Inc.",
+      "numOfDrugs": 48,
+      "rate": 6.78
+    },
+    {
+      "manufacturer": "Mylan Pharmaceuticals Inc.",
+      "numOfDrugs": 336,
+      "rate": 6.54
+    },
+    {
+      "manufacturer": "Major Pharmaceuticals",
+      "numOfDrugs": 138,
+      "rate": 6.49
+    },
+    {
+      "manufacturer": "Akorn, Inc.",
+      "numOfDrugs": 67,
+      "rate": 6.36
+    },
+    {
+      "manufacturer": "Carlsbad Technology, Inc.",
+      "numOfDrugs": 20,
+      "rate": 7.12
+    },
+    {
+      "manufacturer": "Fresenius Kabi USA, LLC",
+      "numOfDrugs": 72,
+      "rate": 6.07
+    },
+    {
+      "manufacturer": "Hikma Pharmaceuticals PLC",
+      "numOfDrugs": 75,
+      "rate": 6.43
+    },
+    {
+      "manufacturer": "Nivagen Pharmaceuticals, Inc.",
+      "numOfDrugs": 19,
+      "rate": 5.54
+    },
+    {
+      "manufacturer": "Mallinckrodt Inc.",
+      "numOfDrugs": 9,
+      "rate": 7.49
+    },
+    {
+      "manufacturer": "Par Pharmaceutical, Inc.",
+      "numOfDrugs": 95,
+      "rate": 6.38
+    },
+    {
+      "manufacturer": "Sandoz Inc.",
+      "numOfDrugs": 192,
+      "rate": 6.43
+    },
+    {
+      "manufacturer": "Sun Pharmaceutical Industries Inc.",
+      "numOfDrugs": 177,
+      "rate": 6.6
+    },
+    {
+      "manufacturer": "Alvogen, Inc.",
+      "numOfDrugs": 29,
+      "rate": 6.08
+    },
+    {
+      "manufacturer": "Bionpharma Inc.",
+      "numOfDrugs": 36,
+      "rate": 6.57
+    },
+    {
+      "manufacturer": "ANI Pharmaceuticals, Inc.",
+      "numOfDrugs": 23,
+      "rate": 6.41
+    },
+    {
+      "manufacturer": "Taro Pharmaceuticals USA, Inc.",
+      "numOfDrugs": 45,
+      "rate": 7.15
+    },
+    {
+      "manufacturer": "Pliva",
+      "numOfDrugs": 58,
+      "rate": 6.35
+    },
+    {
+      "manufacturer": "PuraCap Pharmaceutical LLC",
+      "numOfDrugs": 19,
+      "rate": 6.77
+    },
+    {
+      "manufacturer": "NorthStar Rx LLC",
+      "numOfDrugs": 80,
+      "rate": 6.48
+    },
+    {
+      "manufacturer": "Jubilant Cadista Pharmaceuticals Inc.",
+      "numOfDrugs": 74,
+      "rate": 6.6
+    },
+    {
+      "manufacturer": "Tagi Pharma Inc.",
+      "numOfDrugs": 16,
+      "rate": 6.17
+    },
+    {
+      "manufacturer": "West-Ward Pharmaceuticals",
+      "numOfDrugs": 76,
+      "rate": 6.69
+    },
+    {
+      "manufacturer": "Glenmark Pharmaceuticals Inc.",
+      "numOfDrugs": 107,
+      "rate": 6.5
+    },
+    {
+      "manufacturer": "Unichem Pharmaceuticals (USA), Inc.",
+      "numOfDrugs": 54,
+      "rate": 6.23
+    },
+    {
+      "manufacturer": "Roxane Laboratories, Inc.",
+      "numOfDrugs": 57,
+      "rate": 6.4
+    },
+    {
+      "manufacturer": "Wockhardt USA LLC",
+      "numOfDrugs": 84,
+      "rate": 6.56
+    },
+    {
+      "manufacturer": "Gavis Pharmaceuticals, LLC",
+      "numOfDrugs": 16,
+      "rate": 6.19
+    },
+    {
+      "manufacturer": "Mayne Pharma US",
+      "numOfDrugs": 15,
+      "rate": 7.21
+    },
+    {
+      "manufacturer": "Upsher-Smith Laboratories Inc.",
+      "numOfDrugs": 32,
+      "rate": 6.26
+    },
+    {
+      "manufacturer": "Epic Pharma LLC",
+      "numOfDrugs": 31,
+      "rate": 6.27
+    },
+    {
+      "manufacturer": "Luitpold Pharmaceuticals, Inc.",
+      "numOfDrugs": 7,
+      "rate": 6.6
+    },
+    {
+      "manufacturer": "Sunrise Pharmaceutical, Inc.",
+      "numOfDrugs": 4,
+      "rate": 7.65
+    },
+    {
+      "manufacturer": "Pfizer Inc.",
+      "numOfDrugs": 62,
+      "rate": 6.36
+    },
+    {
+      "manufacturer": "Leading Pharma, LLC",
+      "numOfDrugs": 11,
+      "rate": 7.15
+    },
+    {
+      "manufacturer": "American Regent, Inc.",
+      "numOfDrugs": 14,
+      "rate": 6.91
+    },
+    {
+      "manufacturer": "Bayshore Pharmaceuticals LLC",
+      "numOfDrugs": 8,
+      "rate": 7.09
+    },
+    {
+      "manufacturer": "Nostrum Laboratories, Inc.",
+      "numOfDrugs": 17,
+      "rate": 6.58
+    },
+    {
+      "manufacturer": "Prasco Laboratories",
+      "numOfDrugs": 26,
+      "rate": 6.58
+    },
+    {
+      "manufacturer": "Rising Pharmaceuticals, Inc.",
+      "numOfDrugs": 46,
+      "rate": 6.5
+    },
+    {
+      "manufacturer": "Baxter International Inc.",
+      "numOfDrugs": 19,
+      "rate": 5.74
+    },
+    {
+      "manufacturer": "Xiromed, LLC",
+      "numOfDrugs": 10,
+      "rate": 5.82
+    },
+    {
+      "manufacturer": "Tris Pharma, Inc.",
+      "numOfDrugs": 10,
+      "rate": 6.33
+    },
+    {
+      "manufacturer": "KVK-Tech, Inc.",
+      "numOfDrugs": 20,
+      "rate": 6.52
+    },
+    {
+      "manufacturer": "X-GEN Pharmaceuticals, Inc.",
+      "numOfDrugs": 10,
+      "rate": 5.51
+    },
+    {
+      "manufacturer": "Osmotica Pharmaceuticals plc",
+      "numOfDrugs": 8,
+      "rate": 6.3
+    },
+    {
+      "manufacturer": "Larken Laboratories, Inc.",
+      "numOfDrugs": 6,
+      "rate": 6.77
+    },
+    {
+      "manufacturer": "Spear Pharmaceuticals",
+      "numOfDrugs": 1,
+      "rate": 7.4
+    },
+    {
+      "manufacturer": "Arbor Pharmaceuticals, LLC",
+      "numOfDrugs": 1,
+      "rate": 6.1
+    },
+    {
+      "manufacturer": "Synthon Pharmaceuticals Inc.",
+      "numOfDrugs": 4,
+      "rate": 5.88
+    },
+    {
+      "manufacturer": "Acella Pharmaceuticals, LLC",
+      "numOfDrugs": 3,
+      "rate": 7
+    },
+    {
+      "manufacturer": "Eli Lilly and Company",
+      "numOfDrugs": 2,
+      "rate": 5
+    },
+    {
+      "manufacturer": "VersaPharm Incorporated",
+      "numOfDrugs": 2,
+      "rate": 5.9
+    },
+    {
+      "manufacturer": "Cardinal Health",
+      "numOfDrugs": 2,
+      "rate": 5.7
+    },
+    {
+      "manufacturer": "Celltrion, Inc.",
+      "numOfDrugs": 3,
+      "rate": 7.37
+    },
+    {
+      "manufacturer": "Allergan plc",
+      "numOfDrugs": 2,
+      "rate": 6.4
+    },
+    {
+      "manufacturer": "Fresenius Medical Care",
+      "numOfDrugs": 1,
+      "rate": 0
+    },
+    {
+      "manufacturer": "Hospira, Inc.",
+      "numOfDrugs": 1,
+      "rate": 8.1
+    },
+    {
+      "manufacturer": "ViroPharma",
+      "numOfDrugs": 1,
+      "rate": 6.8
+    }
+  ]

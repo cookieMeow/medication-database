@@ -1,79 +1,79 @@
-Amneal Pharmaceuticals LLC,192
-Apotex Corp.,170
-"Dr. Reddy's Laboratories, Inc.",149
-"Lannett Company, Inc.",93
-"Teva Pharmaceuticals USA, Inc.",344
-Zydus Pharmaceuticals (USA) Inc.,179
-Torrent Pharmaceuticals Limited,73
-Aurobindo Pharma Limited,215
-"Camber Pharmaceuticals, Inc.",93
-Accord Healthcare Inc.,77
-Ascend Laboratories LLC,78
-"Solco Healthcare U.S., LLC",53
-"AvKare, Inc.",219
-Macleods Pharmaceuticals Limited,121
-"Exelan Pharmaceuticals, Inc.",39
-Greenstone LLC,58
-"Lupin Pharmaceuticals, Inc.",153
-Perrigo Company,60
-Heritage Pharmaceuticals Inc.,74
-Advance Pharmaceutical Inc.,5
-Gemini Pharmaceuticals,7
-"Breckenridge Pharmaceutical, Inc.",48
-Mylan Pharmaceuticals Inc.,336
-Major Pharmaceuticals,138
-"Akorn, Inc.",67
-"Carlsbad Technology, Inc.",20
-"Fresenius Kabi USA, LLC",72
-Hikma Pharmaceuticals PLC,75
-"Nivagen Pharmaceuticals, Inc.",19
-Mallinckrodt Inc.,9
-"Par Pharmaceutical, Inc.",95
-Sandoz Inc.,192
-Sun Pharmaceutical Industries Inc.,177
-"Alvogen, Inc.",29
-Bionpharma Inc.,36
-"ANI Pharmaceuticals, Inc.",23
-"Taro Pharmaceuticals USA, Inc.",45
-Pliva,58
-PuraCap Pharmaceutical LLC,19
-NorthStar Rx LLC,80
-Jubilant Cadista Pharmaceuticals Inc.,74
-Tagi Pharma Inc.,16
-West-Ward Pharmaceuticals,76
-Glenmark Pharmaceuticals Inc.,107
-"Unichem Pharmaceuticals (USA), Inc.",54
-"Roxane Laboratories, Inc.",57
-Wockhardt USA LLC,84
-"Gavis Pharmaceuticals, LLC",16
-Mayne Pharma US,15
-Upsher-Smith Laboratories Inc.,32
-Epic Pharma LLC,31
-"Luitpold Pharmaceuticals, Inc.",7
-"Sunrise Pharmaceutical, Inc.",4
-Pfizer Inc.,62
-"Leading Pharma, LLC",11
-"American Regent, Inc.",14
-Bayshore Pharmaceuticals LLC,8
-"Nostrum Laboratories, Inc.",17
-Prasco Laboratories,26
-"Rising Pharmaceuticals, Inc.",46
-Baxter International Inc.,19
-"Xiromed, LLC",10
-"Tris Pharma, Inc.",10
-"KVK-Tech, Inc.",20
-"X-GEN Pharmaceuticals, Inc.",10
-Osmotica Pharmaceuticals plc,8
-"Larken Laboratories, Inc.",6
-Spear Pharmaceuticals,1
-"Arbor Pharmaceuticals, LLC",1
-Synthon Pharmaceuticals Inc.,4
-"Acella Pharmaceuticals, LLC",3
-Eli Lilly and Company,2
-VersaPharm Incorporated,2
-Cardinal Health,2
-"Celltrion, Inc.",3
-Allergan plc,2
-Fresenius Medical Care,1
-"Hospira, Inc.",1
-ViroPharma,1
+Amneal Pharmaceuticals LLC,192,6.51
+Apotex Corp.,170,6.44
+"Dr. Reddy's Laboratories, Inc.",149,6.43
+"Lannett Company, Inc.",93,6.65
+"Teva Pharmaceuticals USA, Inc.",344,6.48
+Zydus Pharmaceuticals (USA) Inc.,179,6.36
+Torrent Pharmaceuticals Limited,73,6.55
+Aurobindo Pharma Limited,215,6.39
+"Camber Pharmaceuticals, Inc.",93,6.4
+Accord Healthcare Inc.,77,6.69
+Ascend Laboratories LLC,78,6.54
+"Solco Healthcare U.S., LLC",53,6.32
+"AvKare, Inc.",219,6.48
+Macleods Pharmaceuticals Limited,121,6.42
+"Exelan Pharmaceuticals, Inc.",39,6.47
+Greenstone LLC,58,6.59
+"Lupin Pharmaceuticals, Inc.",153,6.24
+Perrigo Company,60,6.88
+Heritage Pharmaceuticals Inc.,74,6.24
+Advance Pharmaceutical Inc.,5,7.32
+Gemini Pharmaceuticals,7,7.09
+"Breckenridge Pharmaceutical, Inc.",48,6.78
+Mylan Pharmaceuticals Inc.,336,6.54
+Major Pharmaceuticals,138,6.49
+"Akorn, Inc.",67,6.36
+"Carlsbad Technology, Inc.",20,7.12
+"Fresenius Kabi USA, LLC",72,6.07
+Hikma Pharmaceuticals PLC,75,6.43
+"Nivagen Pharmaceuticals, Inc.",19,5.54
+Mallinckrodt Inc.,9,7.49
+"Par Pharmaceutical, Inc.",95,6.38
+Sandoz Inc.,192,6.43
+Sun Pharmaceutical Industries Inc.,177,6.6
+"Alvogen, Inc.",29,6.08
+Bionpharma Inc.,36,6.57
+"ANI Pharmaceuticals, Inc.",23,6.41
+"Taro Pharmaceuticals USA, Inc.",45,7.15
+Pliva,58,6.35
+PuraCap Pharmaceutical LLC,19,6.77
+NorthStar Rx LLC,80,6.48
+Jubilant Cadista Pharmaceuticals Inc.,74,6.6
+Tagi Pharma Inc.,16,6.17
+West-Ward Pharmaceuticals,76,6.69
+Glenmark Pharmaceuticals Inc.,107,6.5
+"Unichem Pharmaceuticals (USA), Inc.",54,6.23
+"Roxane Laboratories, Inc.",57,6.4
+Wockhardt USA LLC,84,6.56
+"Gavis Pharmaceuticals, LLC",16,6.19
+Mayne Pharma US,15,7.21
+Upsher-Smith Laboratories Inc.,32,6.26
+Epic Pharma LLC,31,6.27
+"Luitpold Pharmaceuticals, Inc.",7,6.6
+"Sunrise Pharmaceutical, Inc.",4,7.65
+Pfizer Inc.,62,6.36
+"Leading Pharma, LLC",11,7.15
+"American Regent, Inc.",14,6.91
+Bayshore Pharmaceuticals LLC,8,7.09
+"Nostrum Laboratories, Inc.",17,6.58
+Prasco Laboratories,26,6.58
+"Rising Pharmaceuticals, Inc.",46,6.5
+Baxter International Inc.,19,5.74
+"Xiromed, LLC",10,5.82
+"Tris Pharma, Inc.",10,6.33
+"KVK-Tech, Inc.",20,6.52
+"X-GEN Pharmaceuticals, Inc.",10,5.51
+Osmotica Pharmaceuticals plc,8,6.3
+"Larken Laboratories, Inc.",6,6.77
+Spear Pharmaceuticals,1,7.4
+"Arbor Pharmaceuticals, LLC",1,6.1
+Synthon Pharmaceuticals Inc.,4,5.88
+"Acella Pharmaceuticals, LLC",3,7.0
+Eli Lilly and Company,2,5.0
+VersaPharm Incorporated,2,5.9
+Cardinal Health,2,5.7
+"Celltrion, Inc.",3,7.37
+Allergan plc,2,6.4
+Fresenius Medical Care,1,0.0
+"Hospira, Inc.",1,8.1
+ViroPharma,1,6.8

@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Link, Switch } from "react-router-dom";
 import Home from './components/Home.js';
 import Explore from './components/explore.js';
 import './App.css';
+import Drugs from './components/drugs.js'
 
 
 const { SubMenu } = Menu;
@@ -21,15 +22,22 @@ function App() {
           <Menu.Item key="explore">
             <Link to="/explore">Explore</Link>
           </Menu.Item>
+          <Menu.Item key="drugs">
+            <Link to="/drugs">Drugs</Link>
+          </Menu.Item>
         </Menu>
 
         <Switch>
+          <Route path="/drugs">
+            <Drugs />
+          </Route>
           <Route path="/explore">
             <Explore />
           </Route>
           <Route path="/">
             <Home />
           </Route>
+          
         </Switch>
     </BrowserRouter>
   );

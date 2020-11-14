@@ -14,7 +14,7 @@ function callback(key) {
   console.log(key);
 }
 
-const Explore = () => {
+const Drugs = () => {
     const arrData = []
     arrData.push(['Company', 'Rate'],)
     // Object.keys(data).forEach(key => arrData.push([key, data[key]]))
@@ -89,4 +89,4 @@ const Explore = () => {
     );
 }
 
-export default Explore;
+export default Drugs;
