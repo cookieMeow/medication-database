@@ -3,6 +3,7 @@ import { Layout, Menu, Breadcrumb } from 'antd';
 import { BrowserRouter, Route, Link, Switch } from "react-router-dom";
 
 import Home from './components/Home.js';
+import Explore from './components/explore.js';
 import './App.css';
 
 
@@ -24,7 +25,7 @@ function App() {
 
         <Switch>
           <Route path="/explore">
-            Explore
+            <Explore />
           </Route>
           <Route path="/">
             <Home />
