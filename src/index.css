@@ -35,6 +35,11 @@ code {
 	margin: 20px;
 }
 
+.company-info-container {
+	margin: 20px;
+	font-size: 14px;
+}
+
 .similar-drug-wrapper {
 	background-color: #e9ecf1;
 	padding: 20px;
