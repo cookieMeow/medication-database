@@ -47,12 +47,12 @@ const Drugs = () => {
                 chartPackages={['corechart', 'controls']}
                 render={({ renderControl, renderChart }) => {
                     return (
-                      <div style={{ display: 'flex' }}>
-                        <div style={{ height: '10%', width: '30%', paddingTop: 10 }}>
+                      <div style={{ display: 'flex', flexDirection: 'column' }}>
+                        <div style={{ height: '10%', width: '100%', paddingTop: 10 }}>
                             <div
                                 style={{
                                 height: 100,
-                                width:400,
+                                width: '100%',
                                 border: 'solid 1px #ccc',
                                 padding: 10,
                                 marginTop: 0,

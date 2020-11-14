@@ -33,7 +33,7 @@ const Explore = () => {
     
     console.log(arrData)
     return(
-        <div style={{ padding: '10px', paddingLeft: '20px'}}>
+        <div style={{ padding: '10px', paddingLeft: '20px', display: 'flex', flexDirection:'column', alignItems:'center'}}>
             <Chart
                 width={'1000px'}
                 height={'1000px'}
