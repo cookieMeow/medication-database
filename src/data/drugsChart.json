@@ -92,7 +92,7 @@
   {
     "name": "Aleve",
     "rate": 7,
-    "symptom": "common cold"
+    "symptom": "cold"
   },
   {
     "name": "Allopurinol",
@@ -1602,11 +1602,6 @@
   {
     "name": "Duloxetine",
     "rate": 6.3,
-    "symptom": "advil"
-  },
-  {
-    "name": "Duloxetine",
-    "rate": 6.3,
     "symptom": "motrin"
   },
   {
@@ -1712,11 +1707,6 @@
   {
     "name": "Effexor XR",
     "rate": 6.9,
-    "symptom": "advil"
-  },
-  {
-    "name": "Effexor XR",
-    "rate": 6.9,
     "symptom": "motrin"
   },
   {
@@ -1768,11 +1758,6 @@
     "name": "Effient",
     "rate": 7.1,
     "symptom": "ibuprofen"
-  },
-  {
-    "name": "Effient",
-    "rate": 7.1,
-    "symptom": "advil"
   },
   {
     "name": "Effient",
@@ -2427,11 +2412,6 @@
   {
     "name": "Fluvoxamine",
     "rate": 6.9,
-    "symptom": "advil"
-  },
-  {
-    "name": "Fluvoxamine",
-    "rate": 6.9,
     "symptom": "motrin"
   },
   {
@@ -2892,7 +2872,7 @@
   {
     "name": "Guaifenesin",
     "rate": 7.1,
-    "symptom": "common cold"
+    "symptom": "cold"
   },
   {
     "name": "Guaifenesin",
@@ -4057,11 +4037,6 @@
   {
     "name": "Leflunomide",
     "rate": 5.4,
-    "symptom": "advil"
-  },
-  {
-    "name": "Leflunomide",
-    "rate": 5.4,
     "symptom": "motrin"
   },
   {
@@ -4322,11 +4297,6 @@
   {
     "name": "Lovenox",
     "rate": 6.9,
-    "symptom": "advil"
-  },
-  {
-    "name": "Lovenox",
-    "rate": 6.9,
     "symptom": "aleve"
   },
   {
@@ -4388,11 +4358,6 @@
     "name": "Luvox",
     "rate": 7.2,
     "symptom": "ibuprofen"
-  },
-  {
-    "name": "Luvox",
-    "rate": 7.2,
-    "symptom": "advil"
   },
   {
     "name": "Luvox",
@@ -4827,11 +4792,6 @@
   {
     "name": "Montelukast",
     "rate": 5.4,
-    "symptom": "advil"
-  },
-  {
-    "name": "Montelukast",
-    "rate": 5.4,
     "symptom": "motrin"
   },
   {
@@ -4882,7 +4842,7 @@
   {
     "name": "Mucinex",
     "rate": 6.4,
-    "symptom": "common cold"
+    "symptom": "cold"
   },
   {
     "name": "Mucinex",
@@ -5597,7 +5557,7 @@
   {
     "name": "Oseltamivir",
     "rate": 6,
-    "symptom": "common cold"
+    "symptom": "cold"
   },
   {
     "name": "Oseltamivir",
@@ -5707,11 +5667,6 @@
   {
     "name": "Paroxetine",
     "rate": 7.1,
-    "symptom": "advil"
-  },
-  {
-    "name": "Paroxetine",
-    "rate": 7.1,
     "symptom": "motrin"
   },
   {
@@ -5808,11 +5763,6 @@
     "name": "Paxil",
     "rate": 7,
     "symptom": "ibuprofen"
-  },
-  {
-    "name": "Paxil",
-    "rate": 7,
-    "symptom": "advil"
   },
   {
     "name": "Paxil",
@@ -6732,11 +6682,6 @@
   {
     "name": "Rifampin",
     "rate": 6.2,
-    "symptom": "advil"
-  },
-  {
-    "name": "Rifampin",
-    "rate": 6.2,
     "symptom": "motrin"
   },
   {
@@ -6758,11 +6703,6 @@
     "name": "Riluzole",
     "rate": 8,
     "symptom": "tylenol"
-  },
-  {
-    "name": "Riluzole",
-    "rate": 8,
-    "symptom": "advil"
   },
   {
     "name": "Riluzole",
@@ -7058,11 +6998,6 @@
     "name": "Singulair",
     "rate": 6.6,
     "symptom": "ibuprofen"
-  },
-  {
-    "name": "Singulair",
-    "rate": 6.6,
-    "symptom": "advil"
   },
   {
     "name": "Singulair",
@@ -7712,11 +7647,6 @@
   {
     "name": "Truvada",
     "rate": 6.5,
-    "symptom": "advil"
-  },
-  {
-    "name": "Truvada",
-    "rate": 6.5,
     "symptom": "aleve"
   },
   {
@@ -7747,7 +7677,7 @@
   {
     "name": "Tylenol",
     "rate": 6.7,
-    "symptom": "fevers"
+    "symptom": "fever"
   },
   {
     "name": "Uloric",

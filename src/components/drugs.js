@@ -16,7 +16,7 @@ function callback(key) {
 
 const Drugs = () => {
     const arrData2 = []
-    arrData2.push(['name', 'rate', 'symptom'],)
+    arrData2.push(['name', 'symptom', 'rate'],)
     // Object.keys(data).forEach(key => arrData.push([key, data[key]]))
     data.map((d)=>{
         arrData2.push([d['name'], d['symptom'],d['rate']])
@@ -29,7 +29,7 @@ const Drugs = () => {
             <Chart
                 width={'900px'}
                 height={'700px'}
-                chartType="PieChart"
+                chartType="Bar"
                 loader={<div>Loading Chart</div>}
                 data={
                     arrData2
@@ -75,7 +75,7 @@ const Drugs = () => {
                         filterColumnIndex: 1,
                         ui: {
                         labelStacking: 'vertical',
-                        label: 'Gender Selection:',
+                        label: 'Symptoms Selection:',
                         allowTyping: true,
                         allowMultiple: false,
                         },
