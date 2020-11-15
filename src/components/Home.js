@@ -88,6 +88,7 @@ const data = [
 const Home = () => {
 	const [activeTab, setActiveTab] = useState('search');
 	const [selectedMedicine, setSelectedMedicine] = useState();
+	const [compareInfo, setCompareInfo] = useState();
 	const [searchBy, setSearchBy] = useState('name');
 	const [companyInfo, setCompanyInfo] = useState();
 	const [nameInfo, setNameInfo] = useState();
@@ -144,6 +145,8 @@ const Home = () => {
 					}
 			}
 			if (searchBy == 'name') {
+				setNameInfo('')
+				setColInfo('')
 				setCompanyInfo('');
 				const response = await fetch("http://localhost:3500/api/get_drug_by_name", {
 					method: 'POST',
@@ -176,13 +179,16 @@ const Home = () => {
 							}
 							
 						}
-						)
+					)
 				}
 				console.log('columnTemp', columnTemp)
 				setColInfo(columnTemp);
 				console.log('colInfo', colInfo)
 			}
 			if (searchBy === 'sympton') {
+				setNameInfo('')
+				setColInfo('')
+				setCompanyInfo('');
 				const response = await fetch("http://localhost:3500/api/get_drug_by_symptoms", {
 					method: 'POST',
 					json: true,
@@ -283,8 +289,24 @@ const Home = () => {
 				return {
 					onClick: event => {
 						console.log('on clicking', record);
+						// const fetchData = async () => {
+						// 	const response = await fetch("http://localhost:3500/api/get_drug_by_symptoms", {
+						// 		method: 'POST',
+						// 		json: true,
+						// 		body: {'sympton': record.symptoms}
+						// 	}).then(res => res.json())
+						// 	// setCompareInfo(response)
+						// 	setCompareInfo({
+						// 		response
+						// 	}, () => {
+						// 		console.log('compareInfo',compareInfo)
+						// 	});
+							
+						// }
+						// fetchData();
 						setActiveTab('compare');
 						setSelectedMedicine(record);
+						console.log('selectedMedicine',selectedMedicine)
 					},
 				};
 			}}
@@ -332,8 +354,18 @@ return(
 			<TabPane tab="Compare" key="compare">
 				{selectedMedicine &&
 				<div>
+					{searchBy==='name' &&
+					<Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
+						<div>manufacture: {selectedMedicine.manufacture}</div>
+						<div>price: {selectedMedicine.price}</div>
+						<div>symptoms: {selectedMedicine.symptoms}</div>
+						{/* <div>StockPrice: {companyInfo.traded}</div> */}
+					</Card>
+					}
 					<Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
 						<div>Company:</div>
+						<div>{selectedMedicine.company}</div>
+						<div>{selectedMedicine.company}</div>
 						<div>{selectedMedicine.company}</div>
 					</Card>
 					<div className='similar-drug-title'>Similar Drugs:</div>
