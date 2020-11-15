@@ -140,9 +140,11 @@ const Home = () => {
 								
 							}
 							)
+						setColInfo(columnTemp);
 					}
 			}
 			if (searchBy == 'name') {
+				setCompanyInfo('');
 				const response = await fetch("http://localhost:3500/api/get_drug_by_name", {
 					method: 'POST',
 					json: true,
