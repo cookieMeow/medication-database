@@ -107,11 +107,13 @@ const Home = () => {
 		console.log('searchby', searchBy);
 		const fetchData = async () => {
 			if (searchBy == 'company') {
-					const response = await fetch("http://localhost:3500/api/get_drug_by_company", {
+					const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_company", {
 						method: 'POST',
-						json: true,
-						body: {'company': value}
-					  }).then(res => res.json())
+						body: JSON.stringify({'name':value}),
+						headers: new Headers({
+							'Content-Type': 'application/json'
+  						})
+					}).then(res => res.json())
 					setCompanyInfo(response.company);
 					console.log(response);
 					setNameInfo(response.drug);
@@ -148,10 +150,12 @@ const Home = () => {
 				setNameInfo('')
 				setColInfo('')
 				setCompanyInfo('');
-				const response = await fetch("http://localhost:3500/api/get_drug_by_name", {
+				const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_name", {
 					method: 'POST',
-					json: true,
-					body: {'name': value}
+					body: JSON.stringify({'name': value}),
+					headers: new Headers({
+    				'Content-Type': 'application/json'
+					})
 				  }).then(res => res.json())
 				setNameInfo(response);
 				const columnTemp = []
@@ -186,13 +190,12 @@ const Home = () => {
 				console.log('colInfo', colInfo)
 			}
 			if (searchBy === 'sympton') {
-				setNameInfo('')
-				setColInfo('')
-				setCompanyInfo('');
-				const response = await fetch("http://localhost:3500/api/get_drug_by_symptoms", {
+				const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_symptoms", {
 					method: 'POST',
-					json: true,
-					body: {'sympton': value}
+					body: JSON.stringify({'name': value}),
+					headers: new Headers({
+    				'Content-Type': 'application/json'
+					})
 				  }).then(res => res.json())
 				  setNameInfo(response);
 				  const columnTemp = []
@@ -227,10 +230,12 @@ const Home = () => {
 				  console.log('colInfo', colInfo)
 			}
 			if (searchBy === 'drugclass') {
-				const response = await fetch("http://localhost:3500/api/get_drug_by_class", {
+				const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_class", {
 					method: 'POST',
-					json: true,
-					body: {'drugclass': value}
+					body: JSON.stringify({'name': value}),
+					headers: new Headers({
+    				'Content-Type': 'application/json'
+					})
 				  }).then(res => res.json())
 				  setNameInfo(response);
 				  const columnTemp = []
