@@ -97,9 +97,9 @@ const Home = () => {
 	// TODO: Please set the initial state to [] and use setSelectedMedicine to update the 
 	//       state value when the drug in the detail page changes
 	const [similarDrugs, setSimilarDrugs] = useState([
-		{name: 'Drug1'},
-		{name: 'Drug2'},
-		{name: 'Drug3'},
+		{name: 'Cefdinir', drug_class: "Third generation cephalosporins", side_effect:"Diarrhea loose stools", symptom:"vomiting", rate:"7" },
+		{name: 'Colchicine', drug_class: "Antigout agents", side_effect:"Diarrhea nausea stomach pain", symptom:"vomiting", rate:"7.7" },
+		{name: 'Flecainide', drug_class: "Group I antiarrhythmics", side_effect:"Difficult or labored breathing dizziness, fainting", symptom:"vomiting", rate:"7.6" },
 	]);
 
 	const onSearch = (value) => {
@@ -107,6 +107,8 @@ const Home = () => {
 		console.log('searchby', searchBy);
 		const fetchData = async () => {
 			if (searchBy == 'company') {
+				setNameInfo('')
+				setColInfo('')
 					const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_company", {
 						method: 'POST',
 						body: JSON.stringify({'name':value}),
@@ -184,12 +186,16 @@ const Home = () => {
 							
 						}
 					)
+					console.log('compareInfo',compareInfo)
 				}
 				console.log('columnTemp', columnTemp)
 				setColInfo(columnTemp);
 				console.log('colInfo', colInfo)
 			}
 			if (searchBy === 'sympton') {
+				setNameInfo('')
+				setColInfo('')
+				setCompanyInfo('');
 				const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_symptoms", {
 					method: 'POST',
 					body: JSON.stringify({'name': value}),
@@ -230,6 +236,9 @@ const Home = () => {
 				  console.log('colInfo', colInfo)
 			}
 			if (searchBy === 'drugclass') {
+				setNameInfo('')
+				setColInfo('')
+				setCompanyInfo('');
 				const response = await fetch("http://35.168.59.174:3500/api/get_drug_by_class", {
 					method: 'POST',
 					body: JSON.stringify({'name': value}),
@@ -271,6 +280,9 @@ const Home = () => {
 			}
 		}
 		fetchData();
+
+		
+		
 		// TODO: Add search functionality here
 	}
 
@@ -361,25 +373,28 @@ return(
 				<div>
 					{searchBy==='name' &&
 					<Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
-						<div>manufacture: {selectedMedicine.manufacture}</div>
-						<div>price: {selectedMedicine.price}</div>
-						<div>symptoms: {selectedMedicine.symptoms}</div>
-						{/* <div>StockPrice: {companyInfo.traded}</div> */}
+						<div><h3>manufacture:</h3> {selectedMedicine.manufacture}</div>
+						<div><h3>price:</h3>{selectedMedicine.price}</div>
+						<div><h3>symptoms:</h3> {selectedMedicine.symptoms}</div>
+						<div><h3>side effect:</h3> Difficulty with speaking drooling loss of balance control muscle trembling, jerking, or stiffness restlessness shuffling walk stiffness of the limbs twisting movements of the body uncontrolled movements, especially of the face, neck, and back</div>
 					</Card>
 					}
-					<Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
+					{/* <Card title={selectedMedicine.name} style={{ width: 500, height: 400 }}>
 						<div>Company:</div>
 						<div>{selectedMedicine.company}</div>
 						<div>{selectedMedicine.company}</div>
 						<div>{selectedMedicine.company}</div>
-					</Card>
+					</Card> */}
 					<div className='similar-drug-title'>Similar Drugs:</div>
 					  <div className='similar-drug-wrapper'>
 						<Row gutter={16}>
 						{similarDrugs.map(drug => (
 							<Col span={8}>
 							<Card size="small" title={drug.name} bordered={false}>
-								description here
+								<div><h3>drug_class:</h3> {drug.drug_class}</div>
+								<div><h3>symptom:</h3>{drug.symptom}</div>
+								<div><h3>side_effect:</h3> {drug.side_effect}</div>
+								<div><h3>Rating:</h3>{drug.rate}</div>
 							</Card>
 						  </Col>
 						))}
