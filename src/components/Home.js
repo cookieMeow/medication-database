@@ -20,33 +20,45 @@ const columns = [
 	render: text => <a>{text}</a>,
   },
   {
-	title: 'Category',
-	dataIndex: 'category',
-	key: 'category',
+	title: 'Symptoms',
+	dataIndex: 'symptoms',
+	key: 'symptoms',
   },
   {
-	title: 'Company',
-	dataIndex: 'company',
-	key: 'company',
+	title: 'Manufacture',
+	dataIndex: 'manufacture',
+	key: 'manufacture',
   },
   {
-	title: 'Tags',
-	key: 'tags',
-	dataIndex: 'tags',
-	render: tags => (
-	  <>
-		{tags.map(tag => {
-		  let color = tag.length > 5 ? 'geekblue' : 'green';
-		  return (
-			<Tag color={color} key={tag}>
-			  {tag.toUpperCase()}
-			</Tag>
-		  );
-		})}
-	  </>
-	),
+	title: 'Price',
+	key: 'price',
+	dataIndex: 'price',
   }
 ];
+
+const columns2 = [
+	{
+	  title: 'Name',
+	  dataIndex: 'name',
+	  key: 'name',
+	  render: text => <a>{text}</a>,
+	},
+	{
+	  title: 'Link',
+	  dataIndex: 'link',
+	  key: 'link',
+	},
+	{
+	  title: 'Rating',
+	  dataIndex: 'rating',
+	  key: 'rating',
+	},
+	{
+	  title: 'Side Effect',
+	  key: 'side_effect',
+	  dataIndex: 'side_effect',
+	}
+  ];
 
 const data = [
   {
@@ -78,6 +90,8 @@ const Home = () => {
 	const [selectedMedicine, setSelectedMedicine] = useState();
 	const [searchBy, setSearchBy] = useState('name');
 	const [companyInfo, setCompanyInfo] = useState();
+	const [nameInfo, setNameInfo] = useState();
+	const [colInfo, setColInfo] = useState();
 	
 	// TODO: Please set the initial state to [] and use setSelectedMedicine to update the 
 	//       state value when the drug in the detail page changes
@@ -89,6 +103,7 @@ const Home = () => {
 
 	const onSearch = (value) => {
 		console.log('searching', value);
+		console.log('searchby', searchBy);
 		const fetchData = async () => {
 			if (searchBy == 'company') {
 					const response = await fetch("http://localhost:3500/api/get_drug_by_company", {
@@ -97,7 +112,149 @@ const Home = () => {
 						body: {'company': value}
 					  }).then(res => res.json())
 					setCompanyInfo(response.company);
-					console.log(companyInfo);
+					console.log(response);
+					setNameInfo(response.drug);
+					const columnTemp = []
+					if(nameInfo !== undefined){
+						columnTemp.push(
+							{
+								title: 'Name',
+								dataIndex: 'name',
+								key: 'name',
+								render: text => <a>{text}</a>,
+							}
+						)
+						const temp = nameInfo[0]
+						Object.keys(temp).forEach(
+							keys => {
+								console.log(keys)
+								if(keys !== 'name'){
+									return columnTemp.push(
+										{
+											title: keys,
+											dataIndex: keys,
+											key: keys,
+											}
+										)
+								}
+								
+							}
+							)
+					}
+			}
+			if (searchBy == 'name') {
+				const response = await fetch("http://localhost:3500/api/get_drug_by_name", {
+					method: 'POST',
+					json: true,
+					body: {'name': value}
+				  }).then(res => res.json())
+				setNameInfo(response);
+				const columnTemp = []
+				if(nameInfo !== undefined){
+					columnTemp.push(
+						{
+							title: 'Name',
+							dataIndex: 'name',
+							key: 'name',
+							render: text => <a>{text}</a>,
+						  }
+					)
+					const temp = nameInfo[0]
+					Object.keys(temp).forEach(
+						keys => {
+							console.log(keys)
+							if(keys !== 'name'){
+								return columnTemp.push(
+									{
+										title: keys,
+										dataIndex: keys,
+										key: keys,
+										}
+									)
+							}
+							
+						}
+						)
+				}
+				console.log('columnTemp', columnTemp)
+				setColInfo(columnTemp);
+				console.log('colInfo', colInfo)
+			}
+			if (searchBy === 'sympton') {
+				const response = await fetch("http://localhost:3500/api/get_drug_by_symptoms", {
+					method: 'POST',
+					json: true,
+					body: {'sympton': value}
+				  }).then(res => res.json())
+				  setNameInfo(response);
+				  const columnTemp = []
+				  if(nameInfo !== undefined){
+					columnTemp.push(
+						{
+							title: 'Name',
+							dataIndex: 'name',
+							key: 'name',
+							render: text => <a>{text}</a>,
+						  }
+					)
+					const temp = nameInfo[0]
+					Object.keys(temp).forEach(
+						keys => {
+							console.log(keys)
+							if(keys !== 'name'){
+								return columnTemp.push(
+									{
+										title: keys,
+										dataIndex: keys,
+										key: keys,
+										}
+									)
+							}
+							
+						}
+						)
+				}
+				  console.log('columnTemp', columnTemp)
+				  setColInfo(columnTemp);
+				  console.log('colInfo', colInfo)
+			}
+			if (searchBy === 'drugclass') {
+				const response = await fetch("http://localhost:3500/api/get_drug_by_class", {
+					method: 'POST',
+					json: true,
+					body: {'drugclass': value}
+				  }).then(res => res.json())
+				  setNameInfo(response);
+				  const columnTemp = []
+				  if(nameInfo !== undefined){
+					columnTemp.push(
+						{
+							title: 'Name',
+							dataIndex: 'name',
+							key: 'name',
+							render: text => <a>{text}</a>,
+						  }
+					)
+					const temp = nameInfo[0]
+					Object.keys(temp).forEach(
+						keys => {
+							console.log(keys)
+							if(keys !== 'name'){
+								return columnTemp.push(
+									{
+										title: keys,
+										dataIndex: keys,
+										key: keys,
+										}
+									)
+							}
+							
+						}
+						)
+				}
+				  console.log('columnTemp', columnTemp)
+				  setColInfo(columnTemp);
+				  console.log('colInfo', colInfo)
 			}
 		}
 		fetchData();
@@ -116,7 +273,8 @@ const Home = () => {
 	}
 
 
-	const SearchResult = () => {
+	const SearchResult = (value) => {
+		console.log('value',value)
 		return (
 			<Table 
 			onRow={(record, rowIndex) => {
@@ -128,7 +286,7 @@ const Home = () => {
 					},
 				};
 			}}
-			columns={columns} dataSource={data} />
+			columns={colInfo} dataSource={nameInfo} />
 		)
 	}
 return(
@@ -143,7 +301,7 @@ return(
 			  <div className='home-search-selection'>
 			  <Radio.Group onChange={onChangeRadio} defaultValue="name">
 				  <Radio.Button value="name">Name</Radio.Button>
-				  <Radio.Button value="sympton">Sympton</Radio.Button>
+				  <Radio.Button value="sympton">Symptom</Radio.Button>
 				  <Radio.Button value="company">Company</Radio.Button>
 				  <Radio.Button value="drugclass">Drug class</Radio.Button>
 			  </Radio.Group>
